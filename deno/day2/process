@@ -1,0 +1,4371 @@
+kieransweetman@Kierans-MacBook-Pro deno % clear
+kieransweetman@Kierans-MacBook-Pro deno % deno run --allow-read day2/index.ts
+{
+  report: [
+    31, 34, 36, 38,
+    40, 43, 46, 44
+  ],
+  reportIsSafe: false
+}
+{ level: 79, nextLevel: 79 }
+{
+  report: [
+    67, 68, 70, 72,
+    74, 77, 79, 79
+  ],
+  reportIsSafe: false
+}
+{ level: 38, nextLevel: 42 }
+{ report: [ 32, 35, 36, 38, 42 ], reportIsSafe: false }
+{ level: 30, nextLevel: 35 }
+{
+  report: [
+    18, 21, 22, 24,
+    27, 30, 35
+  ],
+  reportIsSafe: false
+}
+{ report: [ 63, 66, 67, 66, 69, 72 ], reportIsSafe: false }
+{
+  report: [
+    63, 64, 67, 64,
+    65, 67, 64
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    35, 36, 38, 41,
+    38, 40, 42, 42
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    59, 62, 63, 64,
+    66, 64, 67, 71
+  ],
+  reportIsSafe: false
+}
+{ report: [ 55, 57, 55, 56, 61 ], reportIsSafe: false }
+{ level: 62, nextLevel: 62 }
+{
+  report: [
+    58, 60, 62, 62,
+    65, 67, 68
+  ],
+  reportIsSafe: false
+}
+{ level: 94, nextLevel: 94 }
+{
+  report: [
+    84, 86, 89, 91,
+    93, 94, 94, 91
+  ],
+  reportIsSafe: false
+}
+{ level: 36, nextLevel: 36 }
+{
+  report: [
+    32, 34, 36, 36,
+    37, 39, 41, 41
+  ],
+  reportIsSafe: false
+}
+{ level: 19, nextLevel: 19 }
+{
+  report: [
+    13, 15, 18, 19,
+    19, 21, 22, 26
+  ],
+  reportIsSafe: false
+}
+{ level: 64, nextLevel: 64 }
+{ report: [ 61, 64, 64, 67, 68, 74 ], reportIsSafe: false }
+{ level: 61, nextLevel: 65 }
+{
+  report: [
+    56, 57, 58, 61,
+    65, 66, 68
+  ],
+  reportIsSafe: false
+}
+{ level: 57, nextLevel: 61 }
+{
+  report: [
+    53, 56, 57, 61,
+    62, 64, 62
+  ],
+  reportIsSafe: false
+}
+{ level: 80, nextLevel: 84 }
+{ report: [ 78, 80, 84, 85, 85 ], reportIsSafe: false }
+{ level: 41, nextLevel: 45 }
+{ report: [ 38, 39, 41, 45, 47, 51 ], reportIsSafe: false }
+{ level: 12, nextLevel: 16 }
+{
+  report: [
+     2,  5,  8,  9,
+    12, 16, 18, 24
+  ],
+  reportIsSafe: false
+}
+{ level: 55, nextLevel: 60 }
+{ report: [ 50, 51, 53, 55, 60, 61 ], reportIsSafe: false }
+{ level: 32, nextLevel: 37 }
+{
+  report: [
+    31, 32, 37, 39,
+    40, 42, 40
+  ],
+  reportIsSafe: false
+}
+{ level: 48, nextLevel: 53 }
+{ report: [ 46, 48, 53, 54, 54 ], reportIsSafe: false }
+{ level: 45, nextLevel: 51 }
+{ report: [ 40, 43, 45, 51, 55 ], reportIsSafe: false }
+{ level: 37, nextLevel: 44 }
+{
+  report: [
+    31, 32, 35, 37,
+    44, 45, 51
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    15, 12, 15, 18,
+    20, 23, 25, 27
+  ],
+  reportIsSafe: false
+}
+{ report: [ 78, 76, 79, 80, 78 ], reportIsSafe: true }
+{
+  report: [
+    46, 45, 48, 49,
+    52, 54, 54
+  ],
+  reportIsSafe: false
+}
+{ report: [ 17, 16, 17, 20, 24 ], reportIsSafe: false }
+{ report: [ 80, 78, 80, 82, 83, 90 ], reportIsSafe: false }
+{ report: [ 48, 47, 44, 46, 48 ], reportIsSafe: true }
+{ report: [ 62, 60, 59, 62, 61 ], reportIsSafe: false }
+{
+  report: [
+    26, 23, 24, 26,
+    24, 26, 28, 28
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    4, 3, 1,  4,
+    5, 7, 9, 13
+  ],
+  reportIsSafe: false
+}
+{ report: [ 48, 45, 43, 45, 47, 52 ], reportIsSafe: false }
+{ report: [ 93, 90, 92, 95, 95, 98 ], reportIsSafe: false }
+{
+  report: [
+    80, 79, 81, 81,
+    83, 84, 83
+  ],
+  reportIsSafe: false
+}
+{ report: [ 6, 4, 4, 6, 8, 8 ], reportIsSafe: false }
+{
+  report: [
+     8,  5,  6, 9,
+    12, 12, 16
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    42, 41, 41, 44,
+    45, 47, 54
+  ],
+  reportIsSafe: false
+}
+{ report: [ 66, 63, 64, 68, 70, 73 ], reportIsSafe: false }
+{ report: [ 45, 43, 44, 46, 50, 49 ], reportIsSafe: false }
+{
+  report: [
+     5,  4,  7, 11,
+    12, 14, 14
+  ],
+  reportIsSafe: false
+}
+{ report: [ 72, 71, 75, 78, 80, 84 ], reportIsSafe: false }
+{
+  report: [
+    79, 77, 79, 82,
+    83, 87, 88, 93
+  ],
+  reportIsSafe: false
+}
+{ report: [ 75, 74, 76, 77, 84, 85 ], reportIsSafe: false }
+{
+  report: [
+    26, 25, 28, 30,
+    36, 39, 38
+  ],
+  reportIsSafe: false
+}
+{ report: [ 26, 25, 26, 32, 32 ], reportIsSafe: false }
+{
+  report: [
+    49, 47, 50, 53,
+    60, 61, 65
+  ],
+  reportIsSafe: false
+}
+{ report: [ 18, 16, 17, 18, 23, 29 ], reportIsSafe: false }
+{ level: 73, nextLevel: 73 }
+{ report: [ 73, 73, 74, 75, 78 ], reportIsSafe: false }
+{ level: 43, nextLevel: 43 }
+{
+  report: [
+    43, 43, 46, 47,
+    49, 50, 51, 50
+  ],
+  reportIsSafe: false
+}
+{ level: 87, nextLevel: 87 }
+{ report: [ 87, 87, 89, 90, 93, 93 ], reportIsSafe: false }
+{ level: 52, nextLevel: 52 }
+{ report: [ 52, 52, 55, 58, 62 ], reportIsSafe: false }
+{ level: 78, nextLevel: 78 }
+{
+  report: [
+    78, 78, 81, 82,
+    83, 85, 91
+  ],
+  reportIsSafe: false
+}
+{ level: 48, nextLevel: 48 }
+{ report: [ 48, 48, 46, 49, 51 ], reportIsSafe: false }
+{ level: 89, nextLevel: 89 }
+{
+  report: [
+    89, 89, 92, 93,
+    91, 92, 95, 94
+  ],
+  reportIsSafe: false
+}
+{ level: 13, nextLevel: 13 }
+{
+  report: [
+    13, 13, 15, 14,
+    16, 19, 19
+  ],
+  reportIsSafe: false
+}
+{ level: 68, nextLevel: 68 }
+{ report: [ 68, 68, 65, 66, 68, 72 ], reportIsSafe: false }
+{ level: 39, nextLevel: 39 }
+{ report: [ 39, 39, 37, 38, 39, 46 ], reportIsSafe: false }
+{ level: 23, nextLevel: 23 }
+{ report: [ 23, 23, 25, 25, 26, 29 ], reportIsSafe: false }
+{ level: 90, nextLevel: 90 }
+{
+  report: [
+    90, 90, 93, 94,
+    94, 95, 98, 96
+  ],
+  reportIsSafe: false
+}
+{ level: 26, nextLevel: 26 }
+{
+  report: [
+    26, 26, 27, 30,
+    30, 31, 32, 32
+  ],
+  reportIsSafe: false
+}
+{ level: 61, nextLevel: 61 }
+{ report: [ 61, 61, 64, 66, 66, 70 ], reportIsSafe: false }
+{ level: 34, nextLevel: 34 }
+{ report: [ 34, 34, 34, 36, 41 ], reportIsSafe: false }
+{ level: 35, nextLevel: 35 }
+{
+  report: [
+    35, 35, 37, 39,
+    40, 44, 45
+  ],
+  reportIsSafe: false
+}
+{ level: 70, nextLevel: 70 }
+{
+  report: [
+    70, 70, 74, 77,
+    79, 82, 84, 82
+  ],
+  reportIsSafe: false
+}
+{ level: 16, nextLevel: 16 }
+{
+  report: [
+    16, 16, 19, 23,
+    26, 28, 29, 29
+  ],
+  reportIsSafe: false
+}
+{ level: 41, nextLevel: 41 }
+{ report: [ 41, 41, 42, 46, 50 ], reportIsSafe: false }
+{ level: 33, nextLevel: 33 }
+{ report: [ 33, 33, 34, 38, 40, 46 ], reportIsSafe: false }
+{ level: 28, nextLevel: 28 }
+{ report: [ 28, 28, 29, 36, 39 ], reportIsSafe: false }
+{ level: 79, nextLevel: 79 }
+{
+  report: [
+    79, 79, 85, 87,
+    88, 90, 89
+  ],
+  reportIsSafe: false
+}
+{ level: 66, nextLevel: 66 }
+{ report: [ 66, 66, 69, 72, 77, 77 ], reportIsSafe: false }
+{ level: 49, nextLevel: 49 }
+{ report: [ 49, 49, 51, 52, 59, 63 ], reportIsSafe: false }
+{ level: 38, nextLevel: 38 }
+{ report: [ 38, 38, 40, 42, 49, 56 ], reportIsSafe: false }
+{ level: 78, nextLevel: 82 }
+{
+  report: [
+    78, 82, 84, 86,
+    88, 90, 91
+  ],
+  reportIsSafe: false
+}
+{ level: 41, nextLevel: 45 }
+{ report: [ 41, 45, 48, 50, 52, 49 ], reportIsSafe: false }
+{ level: 60, nextLevel: 64 }
+{
+  report: [
+    60, 64, 67, 68,
+    69, 72, 75, 75
+  ],
+  reportIsSafe: false
+}
+{ level: 78, nextLevel: 82 }
+{ report: [ 78, 82, 83, 85, 89 ], reportIsSafe: false }
+{ level: 33, nextLevel: 37 }
+{ report: [ 33, 37, 40, 42, 48 ], reportIsSafe: false }
+{ level: 78, nextLevel: 82 }
+{
+  report: [
+    78, 82, 85, 87,
+    89, 87, 88, 89
+  ],
+  reportIsSafe: false
+}
+{ level: 2, nextLevel: 6 }
+{
+  report: [
+    2, 6, 5, 6,
+    7, 9, 7
+  ],
+  reportIsSafe: false
+}
+{ level: 1, nextLevel: 5 }
+{
+  report: [
+    1, 5, 3, 5,
+    6, 8, 8
+  ],
+  reportIsSafe: false
+}
+{ level: 81, nextLevel: 85 }
+{ report: [ 81, 85, 83, 84, 86, 90 ], reportIsSafe: false }
+{ level: 65, nextLevel: 69 }
+{
+  report: [
+    65, 69, 67, 68,
+    69, 72, 74, 81
+  ],
+  reportIsSafe: false
+}
+{ level: 15, nextLevel: 19 }
+{
+  report: [
+    15, 19, 21, 24,
+    26, 26, 28
+  ],
+  reportIsSafe: false
+}
+{ level: 4, nextLevel: 8 }
+{
+  report: [
+     4,  8, 11, 14,
+    14, 16, 15
+  ],
+  reportIsSafe: false
+}
+{ level: 9, nextLevel: 13 }
+{ report: [ 9, 13, 14, 14, 17, 17 ], reportIsSafe: false }
+{ level: 15, nextLevel: 19 }
+{ report: [ 15, 19, 20, 20, 22, 26 ], reportIsSafe: false }
+{ level: 9, nextLevel: 13 }
+{ report: [ 9, 13, 15, 16, 16, 22 ], reportIsSafe: false }
+{ level: 16, nextLevel: 20 }
+{ report: [ 16, 20, 23, 27, 30 ], reportIsSafe: false }
+{ level: 18, nextLevel: 22 }
+{ report: [ 18, 22, 25, 29, 31, 29 ], reportIsSafe: false }
+{ level: 1, nextLevel: 5 }
+{
+  report: [
+     1,  5,  6,  8,
+    10, 13, 17, 17
+  ],
+  reportIsSafe: false
+}
+{ level: 9, nextLevel: 13 }
+{ report: [ 9, 13, 17, 20, 22, 26 ], reportIsSafe: false }
+{ level: 28, nextLevel: 32 }
+{ report: [ 28, 32, 33, 37, 40, 46 ], reportIsSafe: false }
+{ level: 30, nextLevel: 34 }
+{
+  report: [
+    30, 34, 36, 38,
+    40, 47, 50
+  ],
+  reportIsSafe: false
+}
+{ level: 44, nextLevel: 48 }
+{
+  report: [
+    44, 48, 54, 57,
+    59, 60, 61, 58
+  ],
+  reportIsSafe: false
+}
+{ level: 9, nextLevel: 13 }
+{ report: [ 9, 13, 16, 22, 22 ], reportIsSafe: false }
+{ level: 62, nextLevel: 66 }
+{ report: [ 62, 66, 68, 71, 77, 81 ], reportIsSafe: false }
+{ level: 36, nextLevel: 40 }
+{ report: [ 36, 40, 42, 49, 54 ], reportIsSafe: false }
+{ level: 43, nextLevel: 50 }
+{
+  report: [
+    43, 50, 53, 55,
+    56, 58, 60, 63
+  ],
+  reportIsSafe: false
+}
+{ level: 5, nextLevel: 10 }
+{ report: [ 5, 10, 11, 13, 10 ], reportIsSafe: false }
+{ level: 5, nextLevel: 11 }
+{
+  report: [
+     5, 11, 12, 15,
+    17, 19, 19
+  ],
+  reportIsSafe: false
+}
+{ level: 34, nextLevel: 39 }
+{ report: [ 34, 39, 40, 43, 47 ], reportIsSafe: false }
+{ level: 50, nextLevel: 57 }
+{
+  report: [
+    50, 57, 59, 60,
+    61, 63, 70
+  ],
+  reportIsSafe: false
+}
+{ level: 38, nextLevel: 43 }
+{
+  report: [
+    38, 43, 44, 43,
+    46, 48, 51
+  ],
+  reportIsSafe: false
+}
+{ level: 79, nextLevel: 85 }
+{ report: [ 79, 85, 88, 85, 87, 86 ], reportIsSafe: false }
+{ level: 72, nextLevel: 78 }
+{
+  report: [
+    72, 78, 79, 76,
+    78, 80, 81, 81
+  ],
+  reportIsSafe: false
+}
+{ level: 42, nextLevel: 48 }
+{ report: [ 42, 48, 47, 48, 52 ], reportIsSafe: false }
+{ level: 55, nextLevel: 62 }
+{
+  report: [
+    55, 62, 63, 66,
+    68, 65, 70
+  ],
+  reportIsSafe: false
+}
+{ level: 47, nextLevel: 54 }
+{
+  report: [
+    47, 54, 55, 55,
+    58, 59, 60
+  ],
+  reportIsSafe: false
+}
+{ level: 79, nextLevel: 85 }
+{ report: [ 79, 85, 87, 87, 89, 88 ], reportIsSafe: false }
+{ level: 7, nextLevel: 14 }
+{
+  report: [
+     7, 14, 17, 20,
+    23, 24, 24, 24
+  ],
+  reportIsSafe: false
+}
+{ level: 68, nextLevel: 73 }
+{
+  report: [
+    68, 73, 75, 75,
+    76, 77, 79, 83
+  ],
+  reportIsSafe: false
+}
+{ level: 9, nextLevel: 16 }
+{ report: [ 9, 16, 19, 19, 24 ], reportIsSafe: false }
+{ level: 66, nextLevel: 72 }
+{ report: [ 66, 72, 73, 77, 79 ], reportIsSafe: false }
+{ level: 12, nextLevel: 18 }
+{ report: [ 12, 18, 22, 23, 24, 23 ], reportIsSafe: false }
+{ level: 26, nextLevel: 32 }
+{
+  report: [
+    26, 32, 33, 36,
+    38, 42, 44, 44
+  ],
+  reportIsSafe: false
+}
+{ level: 30, nextLevel: 37 }
+{ report: [ 30, 37, 39, 43, 46, 50 ], reportIsSafe: false }
+{ level: 66, nextLevel: 73 }
+{ report: [ 66, 73, 74, 75, 79, 86 ], reportIsSafe: false }
+{ level: 47, nextLevel: 53 }
+{ report: [ 47, 53, 58, 60, 62 ], reportIsSafe: false }
+{ level: 46, nextLevel: 53 }
+{ report: [ 46, 53, 59, 62, 59 ], reportIsSafe: false }
+{ level: 56, nextLevel: 61 }
+{
+  report: [
+    56, 61, 63, 66,
+    68, 75, 76, 76
+  ],
+  reportIsSafe: false
+}
+{ level: 23, nextLevel: 29 }
+{
+  report: [
+    23, 29, 32, 34,
+    39, 40, 44
+  ],
+  reportIsSafe: false
+}
+{ level: 33, nextLevel: 40 }
+{
+  report: [
+    33, 40, 41, 43,
+    48, 49, 56
+  ],
+  reportIsSafe: false
+}
+{ report: [ 13, 12, 11, 9, 11 ], reportIsSafe: false }
+{ level: 33, nextLevel: 33 }
+{ report: [ 41, 38, 35, 33, 33 ], reportIsSafe: false }
+{ level: 88, nextLevel: 84 }
+{
+  report: [
+    99, 96, 94, 93,
+    90, 88, 84
+  ],
+  reportIsSafe: false
+}
+{ level: 13, nextLevel: 7 }
+{ report: [ 20, 19, 17, 16, 13, 7 ], reportIsSafe: false }
+{
+  report: [
+    80, 79, 78, 75,
+    72, 70, 71, 70
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    88, 87, 88, 86,
+    85, 83, 84
+  ],
+  reportIsSafe: false
+}
+{ report: [ 44, 42, 41, 44, 43, 43 ], reportIsSafe: false }
+{
+  report: [
+    23, 20, 17, 18,
+    15, 14, 10
+  ],
+  reportIsSafe: false
+}
+{ report: [ 22, 19, 18, 19, 12 ], reportIsSafe: false }
+{ level: 16, nextLevel: 16 }
+{ report: [ 17, 16, 16, 13, 12, 9 ], reportIsSafe: false }
+{ level: 36, nextLevel: 36 }
+{
+  report: [
+    38, 36, 36, 35,
+    32, 31, 34
+  ],
+  reportIsSafe: false
+}
+{ level: 40, nextLevel: 40 }
+{
+  report: [
+    41, 40, 40, 39,
+    38, 37, 35, 35
+  ],
+  reportIsSafe: false
+}
+{ level: 56, nextLevel: 56 }
+{
+  report: [
+    63, 61, 59, 58,
+    56, 56, 53, 49
+  ],
+  reportIsSafe: false
+}
+{ level: 26, nextLevel: 26 }
+{ report: [ 30, 27, 26, 26, 21 ], reportIsSafe: false }
+{ level: 45, nextLevel: 41 }
+{ report: [ 47, 45, 41, 38, 37 ], reportIsSafe: false }
+{ level: 45, nextLevel: 41 }
+{ report: [ 48, 46, 45, 41, 43 ], reportIsSafe: false }
+{ level: 24, nextLevel: 20 }
+{ report: [ 27, 26, 24, 20, 19, 19 ], reportIsSafe: false }
+{ level: 14, nextLevel: 10 }
+{ report: [ 17, 14, 10, 7, 3 ], reportIsSafe: false }
+{ level: 64, nextLevel: 60 }
+{ report: [ 66, 64, 60, 57, 52 ], reportIsSafe: false }
+{ level: 78, nextLevel: 73 }
+{
+  report: [
+    82, 81, 78, 73,
+    70, 68, 65
+  ],
+  reportIsSafe: false
+}
+{ level: 82, nextLevel: 75 }
+{
+  report: [
+    93, 90, 87, 84,
+    82, 75, 77
+  ],
+  reportIsSafe: false
+}
+{ level: 80, nextLevel: 73 }
+{ report: [ 83, 81, 80, 73, 73 ], reportIsSafe: false }
+{ level: 38, nextLevel: 32 }
+{ report: [ 41, 38, 32, 29, 25 ], reportIsSafe: false }
+{ level: 48, nextLevel: 41 }
+{ report: [ 50, 49, 48, 41, 36 ], reportIsSafe: false }
+{ report: [ 83, 86, 83, 81, 78, 75 ], reportIsSafe: false }
+{ report: [ 39, 41, 39, 37, 36, 37 ], reportIsSafe: false }
+{ report: [ 39, 41, 39, 37, 37 ], reportIsSafe: false }
+{
+  report: [
+    61, 62, 59, 58,
+    57, 54, 50
+  ],
+  reportIsSafe: false
+}
+{ report: [ 61, 62, 59, 57, 51 ], reportIsSafe: false }
+{ report: [ 72, 73, 72, 71, 74, 73 ], reportIsSafe: false }
+{
+  report: [
+    90, 92, 93, 91,
+    88, 87, 88
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    31, 33, 30, 31,
+    28, 25, 25
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    74, 75, 73, 72,
+    71, 70, 73, 69
+  ],
+  reportIsSafe: false
+}
+{ report: [ 78, 81, 78, 79, 78, 71 ], reportIsSafe: false }
+{
+  report: [
+    66, 69, 69, 66,
+    63, 61, 60, 57
+  ],
+  reportIsSafe: false
+}
+{ level: 5, nextLevel: 5 }
+{ report: [ 7, 9, 6, 5, 5, 7 ], reportIsSafe: false }
+{ level: 52, nextLevel: 52 }
+{ report: [ 51, 53, 52, 52, 51, 51 ], reportIsSafe: false }
+{
+  report: [
+    90, 92, 89, 86,
+    86, 84, 80
+  ],
+  reportIsSafe: false
+}
+{ report: [ 88, 91, 91, 90, 89, 83 ], reportIsSafe: false }
+{
+  report: [
+    52, 55, 54, 50,
+    48, 46, 45, 44
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    87, 90, 88, 86,
+    82, 81, 78, 81
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    46, 49, 48, 45,
+    41, 38, 38
+  ],
+  reportIsSafe: false
+}
+{ report: [ 41, 42, 38, 37, 33 ], reportIsSafe: false }
+{
+  report: [
+    90, 93, 91, 90,
+    88, 84, 81, 76
+  ],
+  reportIsSafe: false
+}
+{ report: [ 52, 54, 52, 46, 43, 42 ], reportIsSafe: false }
+{ report: [ 43, 46, 43, 36, 38 ], reportIsSafe: false }
+{
+  report: [
+    12, 14, 11, 10,
+     8,  7,  2,  2
+  ],
+  reportIsSafe: false
+}
+{ report: [ 29, 30, 23, 22, 21, 17 ], reportIsSafe: false }
+{
+  report: [
+    68, 71, 65, 64,
+    61, 59, 56, 51
+  ],
+  reportIsSafe: false
+}
+{ level: 99, nextLevel: 99 }
+{ report: [ 99, 99, 97, 94, 93, 90 ], reportIsSafe: false }
+{ level: 46, nextLevel: 46 }
+{ report: [ 46, 46, 45, 44, 47 ], reportIsSafe: false }
+{ level: 65, nextLevel: 65 }
+{
+  report: [
+    65, 65, 62, 60,
+    59, 57, 54, 54
+  ],
+  reportIsSafe: false
+}
+{ level: 90, nextLevel: 90 }
+{
+  report: [
+    90, 90, 87, 86,
+    84, 81, 80, 76
+  ],
+  reportIsSafe: false
+}
+{ level: 22, nextLevel: 22 }
+{
+  report: [
+    22, 22, 20, 19,
+    18, 17, 10
+  ],
+  reportIsSafe: false
+}
+{ level: 56, nextLevel: 56 }
+{
+  report: [
+    56, 56, 55, 53,
+    55, 54, 51, 49
+  ],
+  reportIsSafe: false
+}
+{ level: 46, nextLevel: 46 }
+{ report: [ 46, 46, 47, 44, 45 ], reportIsSafe: false }
+{ level: 94, nextLevel: 94 }
+{ report: [ 94, 94, 95, 92, 90, 90 ], reportIsSafe: false }
+{ level: 51, nextLevel: 51 }
+{ report: [ 51, 51, 54, 51, 47 ], reportIsSafe: false }
+{ level: 64, nextLevel: 64 }
+{
+  report: [
+    64, 64, 62, 64,
+    62, 60, 55
+  ],
+  reportIsSafe: false
+}
+{ level: 99, nextLevel: 99 }
+{
+  report: [
+    99, 99, 97, 96,
+    96, 93, 90, 89
+  ],
+  reportIsSafe: false
+}
+{ level: 70, nextLevel: 70 }
+{
+  report: [
+    70, 70, 70, 68,
+    66, 64, 66
+  ],
+  reportIsSafe: false
+}
+{ level: 91, nextLevel: 91 }
+{
+  report: [
+    91, 91, 89, 87,
+    84, 84, 83, 83
+  ],
+  reportIsSafe: false
+}
+{ level: 92, nextLevel: 92 }
+{ report: [ 92, 92, 92, 91, 89, 85 ], reportIsSafe: false }
+{ level: 11, nextLevel: 11 }
+{ report: [ 11, 11, 8, 8, 6, 1 ], reportIsSafe: false }
+{ level: 81, nextLevel: 81 }
+{ report: [ 81, 81, 80, 76, 73, 70 ], reportIsSafe: false }
+{ level: 56, nextLevel: 56 }
+{
+  report: [
+    56, 56, 54, 50,
+    48, 45, 43, 45
+  ],
+  reportIsSafe: false
+}
+{ level: 72, nextLevel: 72 }
+{
+  report: [
+    72, 72, 69, 68,
+    64, 61, 59, 59
+  ],
+  reportIsSafe: false
+}
+{ level: 80, nextLevel: 80 }
+{ report: [ 80, 80, 77, 73, 69 ], reportIsSafe: false }
+{ level: 61, nextLevel: 61 }
+{ report: [ 61, 61, 59, 55, 49 ], reportIsSafe: false }
+{ level: 24, nextLevel: 24 }
+{
+  report: [
+    24, 24, 21, 20,
+    15, 14, 12,  9
+  ],
+  reportIsSafe: false
+}
+{ level: 38, nextLevel: 38 }
+{ report: [ 38, 38, 35, 32, 26, 28 ], reportIsSafe: false }
+{ level: 53, nextLevel: 53 }
+{
+  report: [
+    53, 53, 52, 51,
+    49, 42, 42
+  ],
+  reportIsSafe: false
+}
+{ level: 60, nextLevel: 60 }
+{
+  report: [
+    60, 60, 54, 52,
+    51, 50, 46
+  ],
+  reportIsSafe: false
+}
+{ level: 42, nextLevel: 42 }
+{
+  report: [
+    42, 42, 39, 36,
+    34, 27, 20
+  ],
+  reportIsSafe: false
+}
+{ level: 16, nextLevel: 12 }
+{ report: [ 16, 12, 11, 8, 7, 4 ], reportIsSafe: false }
+{ level: 34, nextLevel: 30 }
+{
+  report: [
+    34, 30, 28, 27,
+    25, 22, 25
+  ],
+  reportIsSafe: false
+}
+{ level: 94, nextLevel: 90 }
+{ report: [ 94, 90, 88, 87, 84, 84 ], reportIsSafe: false }
+{ level: 84, nextLevel: 80 }
+{
+  report: [
+    84, 80, 77, 76,
+    75, 74, 70
+  ],
+  reportIsSafe: false
+}
+{ level: 65, nextLevel: 61 }
+{
+  report: [
+    65, 61, 59, 58,
+    57, 55, 49
+  ],
+  reportIsSafe: false
+}
+{ level: 72, nextLevel: 68 }
+{ report: [ 72, 68, 71, 68, 65, 64 ], reportIsSafe: false }
+{ level: 75, nextLevel: 71 }
+{ report: [ 75, 71, 70, 71, 70, 71 ], reportIsSafe: false }
+{ level: 97, nextLevel: 93 }
+{
+  report: [
+    97, 93, 91, 88,
+    85, 87, 86, 86
+  ],
+  reportIsSafe: false
+}
+{ level: 29, nextLevel: 25 }
+{ report: [ 29, 25, 23, 26, 22 ], reportIsSafe: false }
+{ level: 92, nextLevel: 88 }
+{
+  report: [
+    92, 88, 86, 89,
+    86, 83, 80, 75
+  ],
+  reportIsSafe: false
+}
+{ level: 85, nextLevel: 81 }
+{
+  report: [
+    85, 81, 79, 78,
+    78, 77, 75, 73
+  ],
+  reportIsSafe: false
+}
+{ level: 80, nextLevel: 76 }
+{
+  report: [
+    80, 76, 75, 75,
+    72, 69, 72
+  ],
+  reportIsSafe: false
+}
+{ level: 59, nextLevel: 55 }
+{ report: [ 59, 55, 52, 52, 49, 49 ], reportIsSafe: false }
+{ level: 60, nextLevel: 56 }
+{ report: [ 60, 56, 56, 54, 50 ], reportIsSafe: false }
+{ level: 75, nextLevel: 71 }
+{ report: [ 75, 71, 71, 70, 67, 60 ], reportIsSafe: false }
+{ level: 81, nextLevel: 77 }
+{ report: [ 81, 77, 76, 72, 70 ], reportIsSafe: false }
+{ level: 36, nextLevel: 32 }
+{ report: [ 36, 32, 31, 27, 29 ], reportIsSafe: false }
+{ level: 86, nextLevel: 82 }
+{
+  report: [
+    86, 82, 79, 77,
+    73, 71, 71
+  ],
+  reportIsSafe: false
+}
+{ level: 56, nextLevel: 52 }
+{ report: [ 56, 52, 49, 45, 41 ], reportIsSafe: false }
+{ level: 94, nextLevel: 90 }
+{ report: [ 94, 90, 86, 85, 80 ], reportIsSafe: false }
+{ level: 95, nextLevel: 91 }
+{
+  report: [
+    95, 91, 88, 87,
+    84, 78, 76
+  ],
+  reportIsSafe: false
+}
+{ level: 63, nextLevel: 59 }
+{
+  report: [
+    63, 59, 56, 55,
+    54, 47, 49
+  ],
+  reportIsSafe: false
+}
+{ level: 63, nextLevel: 59 }
+{ report: [ 63, 59, 56, 54, 48, 48 ], reportIsSafe: false }
+{ level: 70, nextLevel: 66 }
+{
+  report: [
+    70, 66, 59, 57,
+    55, 53, 49
+  ],
+  reportIsSafe: false
+}
+{ level: 24, nextLevel: 20 }
+{
+  report: [
+    24, 20, 18, 15,
+     8,  7,  6,  1
+  ],
+  reportIsSafe: false
+}
+{ level: 61, nextLevel: 54 }
+{ report: [ 61, 54, 51, 50, 47, 46 ], reportIsSafe: false }
+{ level: 31, nextLevel: 25 }
+{
+  report: [
+    31, 25, 23, 21,
+    19, 16, 15, 17
+  ],
+  reportIsSafe: false
+}
+{ level: 89, nextLevel: 82 }
+{ report: [ 89, 82, 80, 77, 77 ], reportIsSafe: false }
+{ level: 58, nextLevel: 53 }
+{ report: [ 58, 53, 51, 48, 44 ], reportIsSafe: false }
+{ level: 63, nextLevel: 56 }
+{
+  report: [
+    63, 56, 55, 52,
+    50, 47, 45, 38
+  ],
+  reportIsSafe: false
+}
+{ level: 58, nextLevel: 52 }
+{
+  report: [
+    58, 52, 50, 52,
+    50, 47, 45
+  ],
+  reportIsSafe: false
+}
+{ level: 86, nextLevel: 79 }
+{ report: [ 86, 79, 80, 79, 82 ], reportIsSafe: false }
+{ level: 70, nextLevel: 63 }
+{ report: [ 70, 63, 61, 60, 63, 63 ], reportIsSafe: false }
+{ level: 54, nextLevel: 48 }
+{ report: [ 54, 48, 47, 45, 46, 42 ], reportIsSafe: false }
+{ level: 58, nextLevel: 53 }
+{ report: [ 58, 53, 52, 54, 52, 45 ], reportIsSafe: false }
+{ level: 54, nextLevel: 47 }
+{
+  report: [
+    54, 47, 44, 41,
+    39, 39, 36, 33
+  ],
+  reportIsSafe: false
+}
+{ level: 56, nextLevel: 51 }
+{
+  report: [
+    56, 51, 50, 50,
+    49, 47, 49
+  ],
+  reportIsSafe: false
+}
+{ level: 79, nextLevel: 73 }
+{ report: [ 79, 73, 73, 70, 69, 69 ], reportIsSafe: false }
+{ level: 80, nextLevel: 73 }
+{
+  report: [
+    80, 73, 72, 71,
+    71, 69, 67, 63
+  ],
+  reportIsSafe: false
+}
+{ level: 70, nextLevel: 63 }
+{
+  report: [
+    70, 63, 62, 60,
+    59, 58, 58, 52
+  ],
+  reportIsSafe: false
+}
+{ level: 21, nextLevel: 15 }
+{
+  report: [
+    21, 15, 12, 9,
+     6,  2,  1
+  ],
+  reportIsSafe: false
+}
+{ level: 42, nextLevel: 35 }
+{ report: [ 42, 35, 33, 29, 31 ], reportIsSafe: false }
+{ level: 36, nextLevel: 30 }
+{ report: [ 36, 30, 26, 23, 23 ], reportIsSafe: false }
+{ level: 30, nextLevel: 23 }
+{
+  report: [
+    30, 23, 22, 21,
+    18, 16, 12,  8
+  ],
+  reportIsSafe: false
+}
+{ level: 29, nextLevel: 24 }
+{ report: [ 29, 24, 20, 17, 14, 9 ], reportIsSafe: false }
+{ level: 47, nextLevel: 42 }
+{ report: [ 47, 42, 36, 34, 33 ], reportIsSafe: false }
+{ level: 99, nextLevel: 93 }
+{
+  report: [
+    99, 93, 90, 89,
+    82, 81, 78, 81
+  ],
+  reportIsSafe: false
+}
+{ level: 29, nextLevel: 22 }
+{ report: [ 29, 22, 17, 16, 16 ], reportIsSafe: false }
+{ level: 59, nextLevel: 53 }
+{
+  report: [
+    59, 53, 52, 50,
+    48, 46, 40, 36
+  ],
+  reportIsSafe: false
+}
+{ level: 97, nextLevel: 92 }
+{
+  report: [
+    97, 92, 85, 82,
+    81, 79, 78, 71
+  ],
+  reportIsSafe: false
+}
+{ level: 52, nextLevel: 57 }
+{
+  report: [
+    52, 57, 60, 61,
+    62, 64, 70, 73
+  ],
+  reportIsSafe: false
+}
+{ level: 5, nextLevel: 1 }
+{
+  report: [
+    14, 13, 11, 10,
+     9,  7,  5,  1
+  ],
+  reportIsSafe: false
+}
+{ level: 53, nextLevel: 57 }
+{
+  report: [
+    42, 44, 47, 50,
+    53, 57, 60, 64
+  ],
+  reportIsSafe: false
+}
+{ level: 34, nextLevel: 27 }
+{ report: [ 34, 27, 27, 25, 25 ], reportIsSafe: false }
+{ report: [ 92, 90, 90, 92, 99 ], reportIsSafe: false }
+{ level: 78, nextLevel: 82 }
+{
+  report: [
+    73, 75, 76, 78,
+    82, 85, 87, 85
+  ],
+  reportIsSafe: false
+}
+{ level: 23, nextLevel: 19 }
+{
+  report: [
+    23, 19, 21, 18,
+    16, 14,  8
+  ],
+  reportIsSafe: false
+}
+{ level: 21, nextLevel: 26 }
+{
+  report: [
+    21, 26, 27, 28,
+    30, 27, 33
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    26, 23, 24, 27,
+    31, 32, 31
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    30, 31, 33, 32,
+    29, 28, 26, 26
+  ],
+  reportIsSafe: false
+}
+{ level: 46, nextLevel: 46 }
+{
+  report: [
+    42, 44, 45, 46,
+    46, 48, 49, 55
+  ],
+  reportIsSafe: false
+}
+{ level: 45, nextLevel: 49 }
+{ report: [ 45, 49, 52, 53, 55, 60 ], reportIsSafe: false }
+{ level: 22, nextLevel: 26 }
+{
+  report: [
+    22, 26, 28, 31,
+    32, 35, 37
+  ],
+  reportIsSafe: false
+}
+{ level: 47, nextLevel: 47 }
+{ report: [ 47, 47, 46, 42, 42 ], reportIsSafe: false }
+{ level: 61, nextLevel: 61 }
+{
+  report: [
+    61, 61, 60, 62,
+    61, 58, 56, 50
+  ],
+  reportIsSafe: false
+}
+{ level: 15, nextLevel: 15 }
+{ report: [ 15, 15, 15, 18, 21, 19 ], reportIsSafe: false }
+{ level: 26, nextLevel: 22 }
+{ report: [ 28, 26, 22, 19, 12 ], reportIsSafe: false }
+{ level: 23, nextLevel: 29 }
+{
+  report: [
+    23, 29, 30, 33,
+    30, 32, 35, 39
+  ],
+  reportIsSafe: false
+}
+{ level: 20, nextLevel: 20 }
+{
+  report: [
+    20, 20, 17, 16,
+    13,  9,  7,  2
+  ],
+  reportIsSafe: false
+}
+{ level: 76, nextLevel: 72 }
+{
+  report: [
+    76, 72, 71, 70,
+    67, 65, 59, 55
+  ],
+  reportIsSafe: false
+}
+{ level: 81, nextLevel: 81 }
+{ report: [ 78, 81, 81, 82, 83 ], reportIsSafe: false }
+{ level: 35, nextLevel: 40 }
+{
+  report: [
+    35, 40, 42, 44,
+    47, 49, 49
+  ],
+  reportIsSafe: false
+}
+{ level: 87, nextLevel: 83 }
+{ report: [ 87, 83, 86, 83, 82, 82 ], reportIsSafe: false }
+{ level: 37, nextLevel: 32 }
+{
+  report: [
+    37, 32, 30, 27,
+    24, 20, 20
+  ],
+  reportIsSafe: false
+}
+{ level: 21, nextLevel: 21 }
+{ report: [ 21, 21, 23, 21, 28 ], reportIsSafe: false }
+{
+  report: [
+    41, 39, 40, 42,
+    45, 48, 51, 51
+  ],
+  reportIsSafe: false
+}
+{ level: 74, nextLevel: 74 }
+{
+  report: [
+    74, 74, 73, 70,
+    68, 67, 65
+  ],
+  reportIsSafe: false
+}
+{ report: [ 84, 85, 84, 82, 80, 76 ], reportIsSafe: false }
+{ level: 45, nextLevel: 45 }
+{ report: [ 45, 45, 39, 38, 38 ], reportIsSafe: false }
+{ level: 47, nextLevel: 43 }
+{ report: [ 47, 43, 43, 41, 38, 31 ], reportIsSafe: false }
+{ level: 33, nextLevel: 33 }
+{
+  report: [
+    33, 33, 32, 29,
+    22, 21, 15
+  ],
+  reportIsSafe: false
+}
+{ level: 31, nextLevel: 37 }
+{ report: [ 31, 37, 40, 40, 47 ], reportIsSafe: false }
+{ level: 62, nextLevel: 62 }
+{
+  report: [
+    62, 62, 63, 65,
+    67, 68, 69
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    70, 67, 64, 63,
+    61, 62, 57
+  ],
+  reportIsSafe: false
+}
+{ level: 39, nextLevel: 34 }
+{
+  report: [
+    39, 34, 33, 30,
+    29, 26, 26, 19
+  ],
+  reportIsSafe: false
+}
+{ level: 63, nextLevel: 63 }
+{
+  report: [
+    63, 63, 64, 66,
+    66, 68, 69, 71
+  ],
+  reportIsSafe: false
+}
+{ level: 38, nextLevel: 45 }
+{ report: [ 38, 45, 48, 51, 50 ], reportIsSafe: false }
+{ level: 53, nextLevel: 59 }
+{ report: [ 53, 59, 63, 66, 65 ], reportIsSafe: false }
+{ level: 59, nextLevel: 59 }
+{ report: [ 59, 59, 56, 56, 55, 56 ], reportIsSafe: false }
+{ level: 71, nextLevel: 67 }
+{ report: [ 71, 67, 66, 64, 60 ], reportIsSafe: false }
+{ level: 50, nextLevel: 57 }
+{ report: [ 48, 50, 57, 60, 60 ], reportIsSafe: false }
+{ level: 73, nextLevel: 73 }
+{
+  report: [
+    73, 73, 75, 76,
+    76, 77, 77
+  ],
+  reportIsSafe: false
+}
+{ level: 62, nextLevel: 62 }
+{ report: [ 62, 62, 63, 70, 71 ], reportIsSafe: false }
+{ level: 45, nextLevel: 41 }
+{
+  report: [
+    45, 41, 38, 34,
+    33, 31, 29, 26
+  ],
+  reportIsSafe: false
+}
+{ level: 85, nextLevel: 85 }
+{
+  report: [
+    85, 85, 88, 89,
+    92, 89, 92, 90
+  ],
+  reportIsSafe: false
+}
+{ level: 53, nextLevel: 48 }
+{
+  report: [
+    64, 61, 60, 59,
+    56, 53, 48
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    49, 47, 48, 51,
+    53, 53, 53
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    17, 16, 13, 15,
+    16, 18, 18
+  ],
+  reportIsSafe: false
+}
+{ level: 58, nextLevel: 62 }
+{ report: [ 56, 57, 58, 62, 65, 72 ], reportIsSafe: false }
+{ level: 13, nextLevel: 13 }
+{ report: [ 13, 13, 18, 20, 20 ], reportIsSafe: false }
+{ level: 76, nextLevel: 72 }
+{ report: [ 76, 72, 67, 66, 64, 58 ], reportIsSafe: false }
+{ level: 4, nextLevel: 11 }
+{
+  report: [
+     4, 11, 12, 13,
+    15, 19, 19
+  ],
+  reportIsSafe: false
+}
+{ level: 32, nextLevel: 28 }
+{
+  report: [
+    32, 28, 27, 24,
+    21, 14, 11, 11
+  ],
+  reportIsSafe: false
+}
+{ level: 11, nextLevel: 11 }
+{ report: [ 11, 11, 10, 10, 6 ], reportIsSafe: false }
+{ level: 42, nextLevel: 42 }
+{
+  report: [
+    42, 42, 44, 45,
+    47, 53, 56, 60
+  ],
+  reportIsSafe: false
+}
+{ level: 91, nextLevel: 91 }
+{
+  report: [
+    96, 95, 94, 93,
+    91, 91, 89, 87
+  ],
+  reportIsSafe: false
+}
+{ report: [ 77, 80, 77, 75, 74, 72 ], reportIsSafe: false }
+{ level: 41, nextLevel: 45 }
+{
+  report: [
+    41, 45, 49, 52,
+    55, 56, 59
+  ],
+  reportIsSafe: false
+}
+{ level: 30, nextLevel: 35 }
+{
+  report: [
+    30, 35, 36, 37,
+    38, 38, 41
+  ],
+  reportIsSafe: false
+}
+{ level: 80, nextLevel: 80 }
+{
+  report: [
+    69, 72, 73, 76,
+    78, 80, 80, 84
+  ],
+  reportIsSafe: false
+}
+{ level: 78, nextLevel: 74 }
+{
+  report: [
+    78, 74, 71, 69,
+    68, 64, 66
+  ],
+  reportIsSafe: false
+}
+{ level: 21, nextLevel: 16 }
+{ report: [ 21, 16, 12, 10, 6 ], reportIsSafe: false }
+{ level: 94, nextLevel: 90 }
+{ report: [ 94, 90, 86, 83, 83 ], reportIsSafe: false }
+{ level: 81, nextLevel: 85 }
+{ report: [ 81, 85, 88, 89, 90, 88 ], reportIsSafe: false }
+{ report: [ 43, 45, 43, 39, 37, 33 ], reportIsSafe: false }
+{ level: 99, nextLevel: 95 }
+{ report: [ 99, 95, 94, 91, 94 ], reportIsSafe: false }
+{ level: 57, nextLevel: 57 }
+{
+  report: [
+    57, 57, 54, 52,
+    50, 47, 45, 39
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    24, 25, 23, 22,
+    15, 14, 14
+  ],
+  reportIsSafe: false
+}
+{ level: 88, nextLevel: 84 }
+{
+  report: [
+    88, 84, 83, 80,
+    79, 76, 74, 74
+  ],
+  reportIsSafe: false
+}
+{ level: 98, nextLevel: 94 }
+{
+  report: [
+    98, 94, 92, 90,
+    89, 85, 80
+  ],
+  reportIsSafe: false
+}
+{ level: 37, nextLevel: 37 }
+{ report: [ 37, 37, 38, 41, 44, 44 ], reportIsSafe: false }
+{ report: [ 95, 96, 96, 93, 92, 85 ], reportIsSafe: false }
+{ level: 6, nextLevel: 6 }
+{
+  report: [
+     6,  6,  7, 9,
+    15, 17, 16
+  ],
+  reportIsSafe: false
+}
+{ level: 71, nextLevel: 78 }
+{ report: [ 68, 71, 78, 80, 81, 85 ], reportIsSafe: false }
+{ level: 43, nextLevel: 43 }
+{
+  report: [
+    35, 37, 39, 40,
+    41, 42, 43, 43
+  ],
+  reportIsSafe: false
+}
+{ level: 30, nextLevel: 34 }
+{
+  report: [
+    30, 34, 37, 40,
+    41, 45, 45
+  ],
+  reportIsSafe: false
+}
+{ level: 9, nextLevel: 13 }
+{
+  report: [
+     9, 13, 15, 15,
+    16, 19, 22, 26
+  ],
+  reportIsSafe: false
+}
+{ level: 55, nextLevel: 49 }
+{
+  report: [
+    55, 49, 46, 45,
+    42, 40, 41
+  ],
+  reportIsSafe: false
+}
+{ level: 76, nextLevel: 72 }
+{ report: [ 76, 72, 68, 67, 63 ], reportIsSafe: false }
+{ level: 26, nextLevel: 33 }
+{ report: [ 26, 33, 36, 37, 34, 35 ], reportIsSafe: false }
+{ level: 51, nextLevel: 44 }
+{
+  report: [
+    51, 44, 41, 39,
+    41, 39, 35
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    12,  9, 11, 14,
+    15, 16, 18, 15
+  ],
+  reportIsSafe: false
+}
+{ level: 42, nextLevel: 42 }
+{
+  report: [
+    42, 42, 45, 45,
+    46, 48, 49, 56
+  ],
+  reportIsSafe: false
+}
+{ level: 4, nextLevel: 8 }
+{ report: [ 4, 8, 9, 10, 8, 8 ], reportIsSafe: false }
+{ report: [ 17, 15, 18, 19, 21, 22 ], reportIsSafe: false }
+{ level: 53, nextLevel: 53 }
+{
+  report: [
+    53, 53, 50, 49,
+    44, 42, 44
+  ],
+  reportIsSafe: false
+}
+{ level: 8, nextLevel: 12 }
+{ report: [ 8, 12, 16, 18, 20, 24 ], reportIsSafe: false }
+{ report: [ 67, 68, 70, 69, 69 ], reportIsSafe: false }
+{ level: 56, nextLevel: 49 }
+{
+  report: [
+    56, 49, 44, 43,
+    42, 40, 43
+  ],
+  reportIsSafe: false
+}
+{ level: 43, nextLevel: 49 }
+{ report: [ 39, 41, 42, 43, 49, 50 ], reportIsSafe: false }
+{
+  report: [
+    39, 37, 40, 43,
+    44, 49, 53
+  ],
+  reportIsSafe: false
+}
+{ level: 59, nextLevel: 63 }
+{ report: [ 59, 63, 66, 72, 72 ], reportIsSafe: false }
+{ level: 44, nextLevel: 44 }
+{
+  report: [
+    44, 44, 47, 48,
+    49, 52, 56, 56
+  ],
+  reportIsSafe: false
+}
+{ level: 57, nextLevel: 57 }
+{ report: [ 62, 59, 57, 57, 58 ], reportIsSafe: false }
+{ level: 83, nextLevel: 83 }
+{ report: [ 83, 83, 81, 78, 77, 73 ], reportIsSafe: false }
+{ level: 54, nextLevel: 58 }
+{ report: [ 54, 58, 60, 62, 69, 74 ], reportIsSafe: false }
+{ level: 35, nextLevel: 35 }
+{ report: [ 37, 35, 35, 32, 26 ], reportIsSafe: false }
+{ level: 39, nextLevel: 43 }
+{ report: [ 39, 43, 46, 52, 55 ], reportIsSafe: false }
+{ level: 31, nextLevel: 27 }
+{
+  report: [
+    31, 27, 24, 22,
+    21, 20, 18
+  ],
+  reportIsSafe: false
+}
+{ level: 73, nextLevel: 80 }
+{ report: [ 73, 80, 83, 84, 86, 90 ], reportIsSafe: false }
+{
+  report: [
+    67, 69, 67, 67,
+    64, 63, 61
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    53, 54, 51, 48,
+    45, 44, 45
+  ],
+  reportIsSafe: false
+}
+{ level: 34, nextLevel: 34 }
+{
+  report: [
+    34, 34, 35, 36,
+    38, 40, 37, 37
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    73, 75, 72, 71,
+    68, 65, 62, 62
+  ],
+  reportIsSafe: false
+}
+{ level: 39, nextLevel: 46 }
+{ report: [ 39, 46, 52, 53, 55, 52 ], reportIsSafe: false }
+{ level: 32, nextLevel: 32 }
+{
+  report: [
+    32, 32, 31, 29,
+    26, 28, 28
+  ],
+  reportIsSafe: false
+}
+{ report: [ 6, 9, 12, 10, 7 ], reportIsSafe: false }
+{ level: 26, nextLevel: 26 }
+{
+  report: [
+    26, 26, 28, 32,
+    35, 38, 40, 44
+  ],
+  reportIsSafe: false
+}
+{ report: [ 67, 70, 67, 65, 58 ], reportIsSafe: false }
+{
+  report: [
+    32, 33, 32, 31,
+    30, 23, 20
+  ],
+  reportIsSafe: false
+}
+{ level: 16, nextLevel: 16 }
+{ report: [ 17, 16, 16, 13, 9 ], reportIsSafe: false }
+{ level: 75, nextLevel: 69 }
+{
+  report: [
+    81, 80, 79, 77,
+    75, 69, 66
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    22, 21, 21, 22,
+    24, 26, 29, 33
+  ],
+  reportIsSafe: false
+}
+{ level: 91, nextLevel: 91 }
+{ report: [ 91, 91, 93, 91, 92 ], reportIsSafe: false }
+{ level: 28, nextLevel: 28 }
+{
+  report: [
+    28, 28, 29, 31,
+    32, 33, 32
+  ],
+  reportIsSafe: false
+}
+{ level: 39, nextLevel: 39 }
+{ report: [ 39, 39, 40, 37, 34 ], reportIsSafe: false }
+{ level: 9, nextLevel: 9 }
+{
+  report: [
+    9, 9, 9, 8,
+    5, 3, 1, 1
+  ],
+  reportIsSafe: false
+}
+{ level: 18, nextLevel: 14 }
+{
+  report: [
+    21, 19, 18, 14,
+    13, 12, 15
+  ],
+  reportIsSafe: false
+}
+{ level: 58, nextLevel: 54 }
+{
+  report: [
+    58, 54, 51, 50,
+    48, 48, 45, 41
+  ],
+  reportIsSafe: false
+}
+{ level: 12, nextLevel: 6 }
+{ report: [ 14, 12, 6, 4, 3, 5 ], reportIsSafe: false }
+{ report: [ 19, 22, 22, 19, 16, 17 ], reportIsSafe: false }
+{ level: 87, nextLevel: 80 }
+{ report: [ 87, 80, 74, 72, 68 ], reportIsSafe: false }
+{ level: 94, nextLevel: 94 }
+{ report: [ 94, 94, 90, 88, 84 ], reportIsSafe: false }
+{ level: 16, nextLevel: 10 }
+{ report: [ 16, 10, 13, 10, 8, 8 ], reportIsSafe: false }
+{ level: 60, nextLevel: 53 }
+{ report: [ 60, 53, 50, 53, 55 ], reportIsSafe: false }
+{
+  report: [
+    56, 53, 50, 47,
+    46, 47, 44, 42
+  ],
+  reportIsSafe: false
+}
+{ level: 35, nextLevel: 42 }
+{
+  report: [
+    25, 28, 30, 31,
+    33, 35, 42, 39
+  ],
+  reportIsSafe: false
+}
+{ level: 33, nextLevel: 28 }
+{
+  report: [
+    33, 28, 25, 23,
+    20, 19, 15
+  ],
+  reportIsSafe: false
+}
+{
+  report: [
+    44, 41, 38, 36,
+    34, 31, 30
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    51, 49, 48, 45,
+    42, 41, 39, 37
+  ],
+  reportIsSafe: true
+}
+{ report: [ 44, 43, 42, 41, 38 ], reportIsSafe: true }
+{
+  report: [
+    88, 85, 82, 81,
+    78, 76, 75, 74
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    30, 27, 24, 23,
+    22, 20, 19
+  ],
+  reportIsSafe: true
+}
+{ report: [ 94, 92, 90, 89, 88, 85 ], reportIsSafe: true }
+{ report: [ 62, 65, 68, 70, 71, 74 ], reportIsSafe: true }
+{ report: [ 48, 50, 53, 54, 57 ], reportIsSafe: true }
+{
+  report: [
+    49, 50, 52, 54,
+    55, 58, 61, 62
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    51, 54, 56, 57,
+    60, 63, 66, 68
+  ],
+  reportIsSafe: true
+}
+{ report: [ 29, 26, 25, 23, 21 ], reportIsSafe: true }
+{
+  report: [
+    17, 14, 11, 8,
+     6,  5,  2
+  ],
+  reportIsSafe: true
+}
+{ report: [ 18, 19, 20, 21, 23, 24 ], reportIsSafe: true }
+{ report: [ 67, 65, 63, 62, 59, 57 ], reportIsSafe: true }
+{
+  report: [
+    52, 49, 48, 47,
+    45, 44, 43
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    55, 56, 58, 61,
+    62, 64, 66, 67
+  ],
+  reportIsSafe: true
+}
+{ report: [ 60, 58, 57, 54, 51, 50 ], reportIsSafe: true }
+{ report: [ 56, 59, 60, 62, 64, 66 ], reportIsSafe: true }
+{ report: [ 70, 72, 73, 75, 76 ], reportIsSafe: true }
+{ report: [ 20, 21, 24, 27, 28, 30 ], reportIsSafe: true }
+{ report: [ 52, 55, 57, 60, 62, 65 ], reportIsSafe: true }
+{ report: [ 84, 82, 79, 77, 76, 74 ], reportIsSafe: true }
+{
+  report: [
+    58, 59, 61, 63,
+    66, 69, 71, 74
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    36, 35, 32, 29,
+    26, 23, 21
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    69, 70, 72, 73,
+    76, 78, 81
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    53, 52, 50, 47,
+    44, 41, 38, 35
+  ],
+  reportIsSafe: true
+}
+{ report: [ 62, 63, 64, 65, 67, 68 ], reportIsSafe: true }
+{
+  report: [
+    65, 63, 61, 59,
+    56, 54, 53, 50
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    75, 76, 77, 80,
+    82, 85, 86
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    68, 66, 64, 61,
+    60, 57, 56, 55
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    14, 12, 9, 8,
+     6,  4, 3
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    78, 76, 73, 70,
+    67, 66, 63
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    28, 29, 30, 31,
+    34, 35, 37
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    32, 31, 29, 27,
+    26, 23, 22, 19
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    66, 65, 63, 60,
+    59, 57, 54
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    10, 11, 13, 16,
+    17, 19, 22
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    61, 64, 65, 67,
+    70, 73, 76, 78
+  ],
+  reportIsSafe: true
+}
+{ report: [ 81, 78, 77, 75, 73 ], reportIsSafe: true }
+{ report: [ 40, 37, 34, 32, 31 ], reportIsSafe: true }
+{
+  report: [
+    35, 37, 39, 40,
+    41, 43, 45, 47
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    49, 51, 52, 54,
+    56, 59, 61, 64
+  ],
+  reportIsSafe: true
+}
+{ report: [ 52, 54, 55, 56, 57 ], reportIsSafe: true }
+{ report: [ 86, 85, 84, 81, 80, 79 ], reportIsSafe: true }
+{ report: [ 53, 50, 49, 46, 43 ], reportIsSafe: true }
+{ report: [ 44, 42, 41, 40, 37 ], reportIsSafe: true }
+{
+  report: [
+    32, 35, 36, 39,
+    41, 44, 45, 48
+  ],
+  reportIsSafe: true
+}
+{ report: [ 25, 27, 28, 29, 30, 31 ], reportIsSafe: true }
+{ report: [ 90, 88, 86, 85, 83 ], reportIsSafe: true }
+{
+  report: [
+    42, 45, 48, 50,
+    51, 53, 54
+  ],
+  reportIsSafe: true
+}
+{ report: [ 22, 20, 19, 16, 13 ], reportIsSafe: true }
+{
+  report: [
+    93, 90, 87, 84,
+    82, 80, 78
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    18, 16, 15, 13,
+    12, 10,  7,  4
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    96, 94, 92, 89,
+    87, 85, 84, 83
+  ],
+  reportIsSafe: true
+}
+{ report: [ 38, 41, 44, 46, 49, 52 ], reportIsSafe: true }
+{
+  report: [
+    63, 62, 60, 57,
+    55, 52, 49, 46
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    51, 52, 55, 58,
+    61, 64, 67
+  ],
+  reportIsSafe: true
+}
+{ report: [ 77, 78, 79, 82, 84, 87 ], reportIsSafe: true }
+{ report: [ 58, 61, 62, 63, 65 ], reportIsSafe: true }
+{
+  report: [
+    55, 58, 59, 62,
+    65, 68, 69, 70
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    29, 28, 25, 23,
+    22, 20, 18
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    18, 20, 22, 24,
+    26, 29, 32
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    77, 78, 79, 81,
+    83, 86, 87
+  ],
+  reportIsSafe: true
+}
+{ report: [ 15, 14, 11, 9, 6 ], reportIsSafe: true }
+{ report: [ 72, 71, 68, 67, 66 ], reportIsSafe: true }
+{
+  report: [
+    82, 84, 85, 87,
+    88, 89, 92
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    50, 49, 48, 47,
+    44, 42, 40, 39
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    82, 80, 78, 77,
+    74, 71, 68
+  ],
+  reportIsSafe: true
+}
+{ report: [ 60, 58, 55, 54, 53 ], reportIsSafe: true }
+{ report: [ 71, 72, 73, 76, 77, 79 ], reportIsSafe: true }
+{
+  report: [
+    38, 39, 41, 44,
+    45, 47, 50, 51
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    65, 62, 61, 59,
+    56, 53, 51
+  ],
+  reportIsSafe: true
+}
+{ report: [ 56, 57, 60, 62, 65 ], reportIsSafe: true }
+{ report: [ 34, 37, 39, 42, 44, 47 ], reportIsSafe: true }
+{ report: [ 12, 14, 16, 19, 22, 25 ], reportIsSafe: true }
+{
+  report: [
+    19, 17, 16, 15,
+    14, 12, 10
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    22, 20, 19, 17,
+    16, 15, 13, 10
+  ],
+  reportIsSafe: true
+}
+{ report: [ 82, 79, 78, 77, 74, 71 ], reportIsSafe: true }
+{ report: [ 15, 13, 10, 7, 6, 4 ], reportIsSafe: true }
+{
+  report: [
+    56, 58, 59, 61,
+    63, 65, 66, 69
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    86, 85, 83, 81,
+    78, 77, 74
+  ],
+  reportIsSafe: true
+}
+{ report: [ 75, 74, 71, 69, 67, 65 ], reportIsSafe: true }
+{
+  report: [
+    33, 31, 29, 28,
+    26, 25, 24, 21
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    58, 60, 62, 63,
+    65, 68, 71, 74
+  ],
+  reportIsSafe: true
+}
+{ report: [ 43, 45, 48, 50, 52 ], reportIsSafe: true }
+{
+  report: [
+    15, 17, 20, 23,
+    24, 25, 26, 29
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    73, 70, 68, 67,
+    66, 64, 62
+  ],
+  reportIsSafe: true
+}
+{ report: [ 91, 88, 87, 84, 82, 81 ], reportIsSafe: true }
+{ report: [ 51, 53, 54, 56, 58 ], reportIsSafe: true }
+{
+  report: [
+     9, 11, 14, 17,
+    19, 22, 23, 26
+  ],
+  reportIsSafe: true
+}
+{ report: [ 55, 52, 49, 47, 46 ], reportIsSafe: true }
+{
+  report: [
+     9, 11, 13, 15,
+    17, 18, 20, 21
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    89, 91, 92, 94,
+    96, 97, 98
+  ],
+  reportIsSafe: true
+}
+{ report: [ 58, 59, 60, 61, 64 ], reportIsSafe: true }
+{ report: [ 14, 13, 10, 9, 8 ], reportIsSafe: true }
+{ report: [ 30, 33, 36, 39, 41 ], reportIsSafe: true }
+{
+  report: [
+    75, 78, 80, 81,
+    84, 85, 87
+  ],
+  reportIsSafe: true
+}
+{ report: [ 40, 42, 43, 45, 46 ], reportIsSafe: true }
+{ report: [ 71, 70, 68, 67, 65 ], reportIsSafe: true }
+{
+  report: [
+    21, 23, 25, 28,
+    31, 33, 34, 36
+  ],
+  reportIsSafe: true
+}
+{ report: [ 54, 51, 50, 49, 48 ], reportIsSafe: true }
+{
+  report: [
+    61, 64, 67, 70,
+    73, 74, 75, 78
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    19, 17, 16, 14,
+    12,  9,  8,  5
+  ],
+  reportIsSafe: true
+}
+{ report: [ 22, 24, 27, 28, 30, 32 ], reportIsSafe: true }
+{
+  report: [
+    80, 83, 84, 86,
+    88, 89, 90
+  ],
+  reportIsSafe: true
+}
+{ report: [ 95, 93, 90, 89, 88, 85 ], reportIsSafe: true }
+{
+  report: [
+    24, 26, 27, 30,
+    33, 35, 37
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    96, 93, 90, 89,
+    87, 85, 82, 81
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    82, 79, 76, 74,
+    73, 71, 69, 67
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    77, 74, 71, 69,
+    67, 65, 64, 61
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    29, 26, 23, 22,
+    20, 19, 16, 15
+  ],
+  reportIsSafe: true
+}
+{ report: [ 72, 69, 66, 63, 61 ], reportIsSafe: true }
+{
+  report: [
+    13, 12, 10, 9,
+     7,  6,  5
+  ],
+  reportIsSafe: true
+}
+{ report: [ 15, 18, 21, 22, 24 ], reportIsSafe: true }
+{
+  report: [
+    30, 28, 26, 23,
+    21, 19, 18
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    49, 46, 43, 42,
+    39, 37, 36, 33
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    62, 64, 67, 70,
+    73, 75, 78, 79
+  ],
+  reportIsSafe: true
+}
+{ report: [ 47, 46, 45, 42, 41, 40 ], reportIsSafe: true }
+{ report: [ 44, 43, 42, 41, 38, 36 ], reportIsSafe: true }
+{
+  report: [
+    52, 50, 49, 47,
+    44, 41, 38, 36
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    45, 42, 40, 37,
+    36, 34, 31
+  ],
+  reportIsSafe: true
+}
+{ report: [ 16, 14, 11, 8, 6, 5 ], reportIsSafe: true }
+{
+  report: [
+    69, 66, 65, 63,
+    61, 59, 56
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    29, 26, 24, 21,
+    20, 19, 18
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    54, 52, 50, 47,
+    46, 43, 40, 38
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    80, 83, 85, 86,
+    88, 89, 91, 92
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    39, 40, 43, 45,
+    48, 51, 52, 55
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    80, 79, 78, 77,
+    76, 75, 72
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+     8, 10, 11, 12,
+    15, 16, 18, 19
+  ],
+  reportIsSafe: true
+}
+{ report: [ 86, 89, 90, 91, 93 ], reportIsSafe: true }
+{
+  report: [
+    48, 51, 52, 55,
+    58, 59, 61, 63
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    75, 72, 70, 67,
+    65, 62, 60, 59
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    11, 14, 17, 18,
+    19, 20, 23, 26
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    52, 49, 47, 45,
+    42, 41, 38, 35
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    36, 38, 39, 42,
+    43, 45, 47, 48
+  ],
+  reportIsSafe: true
+}
+{ report: [ 73, 70, 67, 65, 62 ], reportIsSafe: true }
+{ report: [ 80, 78, 75, 72, 69 ], reportIsSafe: true }
+{
+  report: [
+    72, 70, 67, 65,
+    62, 61, 59
+  ],
+  reportIsSafe: true
+}
+{ report: [ 59, 61, 62, 64, 66 ], reportIsSafe: true }
+{ report: [ 8, 11, 12, 14, 17 ], reportIsSafe: true }
+{
+  report: [
+    45, 47, 49, 50,
+    53, 55, 58, 59
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    51, 50, 48, 47,
+    46, 43, 42
+  ],
+  reportIsSafe: true
+}
+{ report: [ 16, 18, 21, 23, 24, 26 ], reportIsSafe: true }
+{
+  report: [
+    21, 20, 19, 16,
+    15, 12, 11
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    13, 16, 17, 20,
+    23, 24, 25
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    94, 92, 91, 90,
+    89, 86, 83, 80
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    94, 91, 90, 87,
+    86, 83, 80
+  ],
+  reportIsSafe: true
+}
+{ report: [ 17, 14, 12, 11, 8, 7 ], reportIsSafe: true }
+{ report: [ 23, 21, 18, 17, 16 ], reportIsSafe: true }
+{ report: [ 76, 75, 74, 72, 71, 70 ], reportIsSafe: true }
+{ report: [ 43, 41, 40, 37, 36 ], reportIsSafe: true }
+{
+  report: [
+    32, 34, 35, 36,
+    39, 40, 43
+  ],
+  reportIsSafe: true
+}
+{ report: [ 19, 21, 22, 24, 26, 28 ], reportIsSafe: true }
+{
+  report: [
+    13, 14, 16, 17,
+    19, 22, 24, 26
+  ],
+  reportIsSafe: true
+}
+{ report: [ 18, 15, 14, 11, 9, 8 ], reportIsSafe: true }
+{
+  report: [
+    63, 62, 60, 58,
+    56, 55, 52, 51
+  ],
+  reportIsSafe: true
+}
+{ report: [ 71, 72, 73, 75, 77, 78 ], reportIsSafe: true }
+{ report: [ 40, 42, 43, 46, 48, 50 ], reportIsSafe: true }
+{
+  report: [
+    84, 83, 80, 78,
+    75, 72, 70
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    28, 31, 32, 34,
+    37, 39, 40, 42
+  ],
+  reportIsSafe: true
+}
+{ report: [ 27, 25, 24, 22, 20 ], reportIsSafe: true }
+{ report: [ 79, 77, 75, 73, 72 ], reportIsSafe: true }
+{ report: [ 86, 84, 83, 81, 80, 79 ], reportIsSafe: true }
+{
+  report: [
+    81, 83, 86, 89,
+    92, 94, 96
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    85, 86, 88, 90,
+    93, 96, 97
+  ],
+  reportIsSafe: true
+}
+{ report: [ 81, 78, 75, 72, 71 ], reportIsSafe: true }
+{
+  report: [
+    14, 17, 20, 23,
+    26, 28, 30, 31
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    66, 65, 62, 59,
+    58, 57, 54, 52
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    54, 56, 58, 61,
+    64, 66, 67
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    37, 35, 33, 31,
+    30, 27, 26
+  ],
+  reportIsSafe: true
+}
+{ report: [ 75, 73, 70, 68, 67 ], reportIsSafe: true }
+{ report: [ 76, 75, 73, 70, 68 ], reportIsSafe: true }
+{ report: [ 25, 28, 29, 31, 33 ], reportIsSafe: true }
+{
+  report: [
+    70, 73, 75, 78,
+    80, 83, 84
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    42, 41, 40, 38,
+    36, 34, 33
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    20, 21, 22, 24,
+    26, 29, 31
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    24, 21, 19, 17,
+    14, 11,  9
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    77, 75, 73, 70,
+    68, 65, 63
+  ],
+  reportIsSafe: true
+}
+{ report: [ 55, 54, 51, 50, 48, 47 ], reportIsSafe: true }
+{
+  report: [
+    78, 77, 76, 75,
+    73, 72, 69, 68
+  ],
+  reportIsSafe: true
+}
+{ report: [ 29, 27, 24, 21, 20, 19 ], reportIsSafe: true }
+{
+  report: [
+    73, 71, 70, 69,
+    67, 64, 62
+  ],
+  reportIsSafe: true
+}
+{ report: [ 91, 94, 95, 96, 97 ], reportIsSafe: true }
+{
+  report: [
+    11, 13, 14, 16,
+    19, 20, 23
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    63, 64, 66, 68,
+    70, 71, 74, 76
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    64, 63, 61, 58,
+    57, 56, 54, 53
+  ],
+  reportIsSafe: true
+}
+{ report: [ 46, 49, 51, 52, 54, 55 ], reportIsSafe: true }
+{
+  report: [
+    20, 22, 24, 25,
+    28, 31, 32
+  ],
+  reportIsSafe: true
+}
+{ report: [ 46, 49, 52, 54, 56 ], reportIsSafe: true }
+{
+  report: [
+    74, 77, 79, 81,
+    82, 85, 86, 89
+  ],
+  reportIsSafe: true
+}
+{ report: [ 45, 47, 50, 53, 54 ], reportIsSafe: true }
+{ report: [ 58, 57, 55, 54, 51, 50 ], reportIsSafe: true }
+{
+  report: [
+    91, 90, 89, 86,
+    85, 83, 82, 80
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    49, 46, 43, 42,
+    39, 36, 35
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    75, 72, 71, 70,
+    69, 68, 65, 64
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    42, 41, 39, 36,
+    33, 32, 31
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    59, 61, 63, 64,
+    67, 69, 70, 72
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    79, 81, 83, 85,
+    86, 87, 90
+  ],
+  reportIsSafe: true
+}
+{ report: [ 35, 34, 32, 31, 30 ], reportIsSafe: true }
+{ report: [ 76, 73, 71, 68, 67, 65 ], reportIsSafe: true }
+{ report: [ 5, 7, 8, 11, 14 ], reportIsSafe: true }
+{
+  report: [
+    26, 28, 29, 30,
+    32, 33, 34
+  ],
+  reportIsSafe: true
+}
+{ report: [ 80, 83, 85, 86, 87, 89 ], reportIsSafe: true }
+{
+  report: [
+    19, 18, 16, 14,
+    13, 10,  7,  4
+  ],
+  reportIsSafe: true
+}
+{ report: [ 21, 18, 16, 15, 12, 11 ], reportIsSafe: true }
+{
+  report: [
+    64, 67, 70, 72,
+    75, 76, 79, 80
+  ],
+  reportIsSafe: true
+}
+{ report: [ 5, 6, 9, 11, 13 ], reportIsSafe: true }
+{
+  report: [
+    87, 85, 82, 80,
+    77, 75, 72
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    23, 22, 19, 18,
+    17, 16, 15
+  ],
+  reportIsSafe: true
+}
+{ report: [ 51, 50, 47, 44, 41, 38 ], reportIsSafe: true }
+{ report: [ 34, 33, 31, 30, 29, 27 ], reportIsSafe: true }
+{ report: [ 39, 36, 33, 30, 27 ], reportIsSafe: true }
+{ report: [ 15, 13, 12, 10, 9, 8 ], reportIsSafe: true }
+{ report: [ 27, 28, 31, 33, 35, 36 ], reportIsSafe: true }
+{
+  report: [
+    31, 30, 29, 26,
+    23, 20, 19
+  ],
+  reportIsSafe: true
+}
+{ report: [ 47, 46, 44, 41, 39 ], reportIsSafe: true }
+{
+  report: [
+    60, 58, 56, 54,
+    53, 51, 49, 48
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    50, 47, 44, 42,
+    39, 36, 33, 30
+  ],
+  reportIsSafe: true
+}
+{ report: [ 70, 68, 65, 64, 63, 60 ], reportIsSafe: true }
+{
+  report: [
+    61, 63, 66, 69,
+    72, 75, 77, 78
+  ],
+  reportIsSafe: true
+}
+{ report: [ 19, 17, 16, 13, 10, 7 ], reportIsSafe: true }
+{
+  report: [
+    51, 50, 47, 45,
+    44, 42, 41, 40
+  ],
+  reportIsSafe: true
+}
+{ report: [ 72, 73, 76, 77, 80, 81 ], reportIsSafe: true }
+{
+  report: [
+    69, 68, 65, 64,
+    62, 60, 58
+  ],
+  reportIsSafe: true
+}
+{ report: [ 47, 44, 41, 38, 35 ], reportIsSafe: true }
+{ report: [ 33, 30, 27, 24, 22, 20 ], reportIsSafe: true }
+{ report: [ 54, 51, 50, 48, 46, 43 ], reportIsSafe: true }
+{ report: [ 96, 95, 94, 93, 91, 88 ], reportIsSafe: true }
+{ report: [ 77, 76, 73, 71, 69 ], reportIsSafe: true }
+{
+  report: [
+    2,  3,  5, 7,
+    9, 10, 12
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    20, 21, 23, 24,
+    25, 26, 27
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    28, 26, 25, 23,
+    21, 20, 18, 17
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    52, 55, 57, 59,
+    60, 63, 64
+  ],
+  reportIsSafe: true
+}
+{ report: [ 37, 35, 32, 29, 26 ], reportIsSafe: true }
+{
+  report: [
+    62, 61, 60, 57,
+    55, 53, 52, 50
+  ],
+  reportIsSafe: true
+}
+{ report: [ 80, 82, 83, 86, 87 ], reportIsSafe: true }
+{ report: [ 64, 66, 68, 69, 71, 72 ], reportIsSafe: true }
+{ report: [ 22, 19, 16, 14, 13, 11 ], reportIsSafe: true }
+{ report: [ 98, 96, 93, 91, 88 ], reportIsSafe: true }
+{ report: [ 22, 25, 27, 28, 31, 32 ], reportIsSafe: true }
+{
+  report: [
+    63, 61, 60, 57,
+    56, 55, 53, 50
+  ],
+  reportIsSafe: true
+}
+{ report: [ 13, 10, 8, 6, 4 ], reportIsSafe: true }
+{
+  report: [
+    35, 37, 38, 40,
+    41, 42, 43
+  ],
+  reportIsSafe: true
+}
+{ report: [ 95, 94, 93, 90, 88 ], reportIsSafe: true }
+{ report: [ 98, 96, 93, 90, 88, 87 ], reportIsSafe: true }
+{ report: [ 39, 40, 43, 44, 45, 48 ], reportIsSafe: true }
+{ report: [ 21, 24, 26, 27, 28, 29 ], reportIsSafe: true }
+{
+  report: [
+    31, 34, 36, 39,
+    40, 41, 42, 43
+  ],
+  reportIsSafe: true
+}
+{ report: [ 68, 65, 64, 61, 58 ], reportIsSafe: true }
+{ report: [ 47, 49, 52, 54, 57, 60 ], reportIsSafe: true }
+{
+  report: [
+    26, 28, 31, 34,
+    36, 37, 40, 43
+  ],
+  reportIsSafe: true
+}
+{ report: [ 82, 84, 86, 89, 91, 93 ], reportIsSafe: true }
+{ report: [ 78, 75, 74, 72, 71, 70 ], reportIsSafe: true }
+{ report: [ 43, 46, 49, 50, 52, 53 ], reportIsSafe: true }
+{ report: [ 64, 66, 67, 69, 71 ], reportIsSafe: true }
+{ report: [ 1, 4, 7, 9, 10 ], reportIsSafe: true }
+{ report: [ 47, 49, 50, 51, 53, 56 ], reportIsSafe: true }
+{
+  report: [
+    54, 53, 52, 49,
+    46, 43, 42, 40
+  ],
+  reportIsSafe: true
+}
+{ report: [ 59, 58, 57, 56, 53 ], reportIsSafe: true }
+{
+  report: [
+    29, 28, 26, 23,
+    20, 18, 15
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    41, 42, 45, 48,
+    49, 52, 54, 55
+  ],
+  reportIsSafe: true
+}
+{ report: [ 30, 32, 34, 37, 40 ], reportIsSafe: true }
+{
+  report: [
+    34, 37, 38, 41,
+    43, 46, 48, 50
+  ],
+  reportIsSafe: true
+}
+{ report: [ 18, 20, 23, 25, 26 ], reportIsSafe: true }
+{
+  report: [
+    61, 63, 66, 69,
+    72, 74, 77
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    34, 37, 40, 42,
+    45, 48, 49, 51
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    64, 61, 60, 59,
+    56, 53, 50
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    71, 68, 66, 63,
+    61, 58, 55, 53
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    25, 22, 20, 19,
+    16, 15, 14
+  ],
+  reportIsSafe: true
+}
+{ report: [ 25, 22, 21, 19, 18 ], reportIsSafe: true }
+{
+  report: [
+    13, 15, 16, 19,
+    22, 24, 25
+  ],
+  reportIsSafe: true
+}
+{ report: [ 53, 54, 56, 58, 60, 62 ], reportIsSafe: true }
+{ report: [ 6, 7, 8, 11, 14, 16 ], reportIsSafe: true }
+{ report: [ 61, 60, 59, 58, 56, 54 ], reportIsSafe: true }
+{
+  report: [
+    89, 86, 85, 82,
+    79, 76, 74, 73
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    19, 21, 23, 26,
+    28, 30, 31
+  ],
+  reportIsSafe: true
+}
+{ report: [ 90, 89, 88, 86, 83 ], reportIsSafe: true }
+{ report: [ 68, 69, 71, 72, 74, 75 ], reportIsSafe: true }
+{ report: [ 67, 65, 63, 61, 59 ], reportIsSafe: true }
+{
+  report: [
+    13, 11, 9, 7,
+     6,  5, 4, 3
+  ],
+  reportIsSafe: true
+}
+{ report: [ 52, 53, 54, 55, 56, 59 ], reportIsSafe: true }
+{ report: [ 82, 80, 77, 76, 74, 73 ], reportIsSafe: true }
+{ report: [ 11, 9, 6, 3, 2 ], reportIsSafe: true }
+{ report: [ 59, 60, 62, 64, 65, 67 ], reportIsSafe: true }
+{ report: [ 69, 67, 66, 64, 62 ], reportIsSafe: true }
+{ report: [ 65, 67, 68, 71, 74, 75 ], reportIsSafe: true }
+{
+  report: [
+    73, 74, 75, 78,
+    80, 83, 84, 87
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    96, 93, 91, 88,
+    85, 83, 81, 80
+  ],
+  reportIsSafe: true
+}
+{ report: [ 28, 25, 23, 21, 19, 16 ], reportIsSafe: true }
+{
+  report: [
+    61, 62, 63, 66,
+    67, 70, 73
+  ],
+  reportIsSafe: true
+}
+{ report: [ 86, 87, 88, 90, 91 ], reportIsSafe: true }
+{
+  report: [
+    69, 66, 63, 61,
+    59, 58, 56
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    24, 26, 27, 28,
+    31, 34, 37
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    15, 16, 18, 20,
+    22, 23, 24
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    64, 66, 67, 69,
+    71, 74, 75, 76
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    77, 76, 75, 73,
+    70, 68, 66
+  ],
+  reportIsSafe: true
+}
+{ report: [ 26, 27, 29, 31, 34, 36 ], reportIsSafe: true }
+{ report: [ 95, 94, 93, 92, 90 ], reportIsSafe: true }
+{
+  report: [
+     1,  4,  7, 8,
+    10, 12, 14
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    66, 64, 62, 60,
+    58, 56, 55, 54
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    40, 42, 44, 45,
+    47, 50, 52, 55
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    16, 17, 18, 20,
+    22, 24, 26, 29
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    27, 25, 24, 21,
+    19, 16, 13
+  ],
+  reportIsSafe: true
+}
+{ report: [ 99, 96, 95, 93, 91, 89 ], reportIsSafe: true }
+{
+  report: [
+    29, 32, 35, 38,
+    39, 40, 43
+  ],
+  reportIsSafe: true
+}
+{ report: [ 96, 94, 92, 91, 88, 85 ], reportIsSafe: true }
+{ report: [ 51, 48, 47, 45, 43 ], reportIsSafe: true }
+{
+  report: [
+    37, 35, 34, 31,
+    28, 27, 25, 23
+  ],
+  reportIsSafe: true
+}
+{ report: [ 92, 89, 87, 86, 83 ], reportIsSafe: true }
+{
+  report: [
+    69, 71, 74, 77,
+    80, 83, 85
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    17, 20, 21, 22,
+    25, 27, 28, 29
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    15, 16, 18, 19,
+    21, 22, 23, 26
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    50, 52, 54, 56,
+    57, 58, 59, 60
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    63, 60, 57, 54,
+    53, 50, 47
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    57, 59, 62, 64,
+    66, 67, 68
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    82, 81, 79, 76,
+    74, 73, 71, 69
+  ],
+  reportIsSafe: true
+}
+{ report: [ 34, 35, 37, 39, 42 ], reportIsSafe: true }
+{
+  report: [
+    81, 83, 86, 89,
+    90, 92, 95, 98
+  ],
+  reportIsSafe: true
+}
+{ report: [ 1, 2, 5, 6, 7, 10 ], reportIsSafe: true }
+{ report: [ 57, 55, 52, 51, 50, 48 ], reportIsSafe: true }
+{
+  report: [
+    2,  3,  5,  7,
+    8, 11, 12, 15
+  ],
+  reportIsSafe: true
+}
+{ report: [ 14, 11, 10, 8, 5, 4 ], reportIsSafe: true }
+{ report: [ 11, 14, 16, 19, 20 ], reportIsSafe: true }
+{ report: [ 73, 76, 78, 79, 81, 84 ], reportIsSafe: true }
+{
+  report: [
+    70, 71, 73, 75,
+    78, 80, 82
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    24, 27, 28, 31,
+    34, 37, 38
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    47, 45, 42, 40,
+    38, 35, 33
+  ],
+  reportIsSafe: true
+}
+{ report: [ 30, 29, 27, 26, 23, 22 ], reportIsSafe: true }
+{ report: [ 13, 16, 17, 18, 19, 21 ], reportIsSafe: true }
+{
+  report: [
+    58, 55, 52, 51,
+    48, 46, 45, 42
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    73, 72, 69, 66,
+    63, 62, 60, 59
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    21, 19, 16, 15,
+    12, 11,  9,  8
+  ],
+  reportIsSafe: true
+}
+{ report: [ 70, 71, 74, 77, 80 ], reportIsSafe: true }
+{ report: [ 57, 58, 59, 60, 61, 62 ], reportIsSafe: true }
+{
+  report: [
+    39, 36, 33, 30,
+    29, 26, 24
+  ],
+  reportIsSafe: true
+}
+{ report: [ 36, 35, 33, 30, 28, 25 ], reportIsSafe: true }
+{ report: [ 51, 48, 46, 45, 43, 42 ], reportIsSafe: true }
+{
+  report: [
+    69, 70, 73, 74,
+    77, 79, 80, 83
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    33, 35, 36, 38,
+    39, 40, 43
+  ],
+  reportIsSafe: true
+}
+{ report: [ 48, 47, 46, 45, 44, 42 ], reportIsSafe: true }
+{
+  report: [
+    14, 15, 16, 19,
+    22, 25, 28
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    76, 79, 82, 85,
+    88, 89, 90
+  ],
+  reportIsSafe: true
+}
+{ report: [ 55, 56, 58, 59, 62, 64 ], reportIsSafe: true }
+{
+  report: [
+    1,  4,  6,  7,
+    9, 10, 12, 15
+  ],
+  reportIsSafe: true
+}
+{ report: [ 64, 61, 59, 58, 57, 54 ], reportIsSafe: true }
+{
+  report: [
+    30, 29, 27, 25,
+    24, 22, 20
+  ],
+  reportIsSafe: true
+}
+{ report: [ 67, 65, 62, 59, 56, 54 ], reportIsSafe: true }
+{ report: [ 70, 69, 68, 65, 64, 63 ], reportIsSafe: true }
+{ report: [ 93, 92, 89, 87, 85 ], reportIsSafe: true }
+{
+  report: [
+    26, 25, 22, 21,
+    19, 16, 14, 13
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    30, 31, 34, 35,
+    38, 40, 41, 42
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    33, 35, 37, 38,
+    41, 44, 46
+  ],
+  reportIsSafe: true
+}
+{ report: [ 91, 89, 86, 85, 83, 82 ], reportIsSafe: true }
+{
+  report: [
+    59, 62, 65, 67,
+    70, 73, 75
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    62, 64, 65, 68,
+    69, 72, 73
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    19, 22, 23, 26,
+    28, 29, 32
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    40, 37, 34, 33,
+    32, 29, 27
+  ],
+  reportIsSafe: true
+}
+{ report: [ 34, 36, 39, 41, 44, 46 ], reportIsSafe: true }
+{
+  report: [
+     3,  4,  7, 10,
+    13, 15, 16, 19
+  ],
+  reportIsSafe: true
+}
+{ report: [ 74, 72, 69, 67, 66, 65 ], reportIsSafe: true }
+{
+  report: [
+    78, 76, 75, 73,
+    72, 70, 67, 65
+  ],
+  reportIsSafe: true
+}
+{ report: [ 2, 5, 8, 9, 11 ], reportIsSafe: true }
+{
+  report: [
+     8, 11, 14, 17,
+    19, 22, 25
+  ],
+  reportIsSafe: true
+}
+{ report: [ 39, 42, 44, 46, 48, 51 ], reportIsSafe: true }
+{
+  report: [
+    36, 35, 34, 31,
+    30, 27, 25
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    38, 40, 43, 46,
+    48, 49, 50
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    64, 66, 68, 71,
+    73, 76, 78
+  ],
+  reportIsSafe: true
+}
+{ report: [ 66, 69, 70, 72, 73 ], reportIsSafe: true }
+{ report: [ 64, 61, 60, 58, 55 ], reportIsSafe: true }
+{ report: [ 84, 81, 79, 76, 74 ], reportIsSafe: true }
+{
+  report: [
+    14, 17, 20, 21,
+    23, 25, 27
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    77, 80, 81, 84,
+    87, 88, 91, 93
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    20, 17, 14, 12,
+     9,  6,  3
+  ],
+  reportIsSafe: true
+}
+{ report: [ 81, 84, 87, 89, 92, 95 ], reportIsSafe: true }
+{ report: [ 73, 72, 71, 70, 67, 64 ], reportIsSafe: true }
+{
+  report: [
+    50, 48, 47, 44,
+    43, 41, 38
+  ],
+  reportIsSafe: true
+}
+{ report: [ 62, 64, 66, 69, 72, 74 ], reportIsSafe: true }
+{ report: [ 35, 34, 32, 31, 28 ], reportIsSafe: true }
+{
+  report: [
+    79, 78, 76, 74,
+    73, 72, 71, 70
+  ],
+  reportIsSafe: true
+}
+{ report: [ 35, 32, 29, 28, 27, 26 ], reportIsSafe: true }
+{ report: [ 63, 62, 60, 58, 56, 54 ], reportIsSafe: true }
+{ report: [ 19, 16, 13, 10, 9 ], reportIsSafe: true }
+{ report: [ 80, 78, 75, 73, 71 ], reportIsSafe: true }
+{
+  report: [
+    68, 65, 62, 60,
+    58, 57, 56
+  ],
+  reportIsSafe: true
+}
+{ report: [ 36, 39, 40, 43, 44 ], reportIsSafe: true }
+{
+  report: [
+    46, 44, 42, 39,
+    36, 35, 34, 32
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    29, 31, 34, 37,
+    40, 42, 43
+  ],
+  reportIsSafe: true
+}
+{ report: [ 57, 55, 53, 52, 49, 46 ], reportIsSafe: true }
+{ report: [ 87, 84, 83, 82, 80 ], reportIsSafe: true }
+{ report: [ 13, 10, 8, 6, 3 ], reportIsSafe: true }
+{
+  report: [
+    92, 91, 90, 88,
+    85, 84, 83, 82
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    36, 33, 30, 29,
+    27, 25, 23, 21
+  ],
+  reportIsSafe: true
+}
+{ report: [ 39, 38, 36, 34, 32, 30 ], reportIsSafe: true }
+{ report: [ 77, 80, 81, 83, 85, 86 ], reportIsSafe: true }
+{
+  report: [
+    79, 81, 82, 83,
+    85, 88, 90
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    24, 25, 28, 29,
+    31, 33, 36, 38
+  ],
+  reportIsSafe: true
+}
+{ report: [ 87, 85, 83, 82, 80, 79 ], reportIsSafe: true }
+{ report: [ 88, 90, 92, 93, 94 ], reportIsSafe: true }
+{
+  report: [
+    17, 19, 20, 21,
+    22, 25, 26, 29
+  ],
+  reportIsSafe: true
+}
+{ report: [ 37, 34, 31, 30, 27 ], reportIsSafe: true }
+{ report: [ 23, 21, 19, 17, 16 ], reportIsSafe: true }
+{
+  report: [
+    27, 25, 24, 23,
+    22, 19, 18, 17
+  ],
+  reportIsSafe: true
+}
+{ report: [ 13, 12, 9, 6, 4, 1 ], reportIsSafe: true }
+{ report: [ 81, 83, 85, 88, 91, 93 ], reportIsSafe: true }
+{
+  report: [
+    15, 14, 12, 10,
+     9,  7,  6
+  ],
+  reportIsSafe: true
+}
+{ report: [ 44, 46, 48, 51, 54, 55 ], reportIsSafe: true }
+{
+  report: [
+    27, 25, 23, 22,
+    20, 18, 17, 16
+  ],
+  reportIsSafe: true
+}
+{ report: [ 45, 48, 49, 51, 52, 53 ], reportIsSafe: true }
+{ report: [ 23, 25, 27, 28, 30, 31 ], reportIsSafe: true }
+{ report: [ 60, 59, 56, 54, 53 ], reportIsSafe: true }
+{
+  report: [
+    70, 73, 75, 76,
+    78, 79, 80, 82
+  ],
+  reportIsSafe: true
+}
+{ report: [ 32, 29, 27, 26, 23 ], reportIsSafe: true }
+{ report: [ 7, 8, 9, 11, 14 ], reportIsSafe: true }
+{ report: [ 80, 81, 83, 86, 89, 92 ], reportIsSafe: true }
+{ report: [ 85, 84, 82, 80, 77 ], reportIsSafe: true }
+{ report: [ 95, 94, 92, 91, 89 ], reportIsSafe: true }
+{ report: [ 20, 17, 14, 12, 11 ], reportIsSafe: true }
+{
+  report: [
+    20, 18, 16, 14,
+    13, 10,  9
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    26, 23, 21, 19,
+    18, 17, 15
+  ],
+  reportIsSafe: true
+}
+{ report: [ 25, 27, 30, 33, 36, 39 ], reportIsSafe: true }
+{ report: [ 58, 59, 62, 65, 68, 69 ], reportIsSafe: true }
+{
+  report: [
+    16, 19, 22, 23,
+    24, 25, 28, 30
+  ],
+  reportIsSafe: true
+}
+{ report: [ 71, 70, 68, 67, 64, 62 ], reportIsSafe: true }
+{ report: [ 31, 28, 27, 24, 22 ], reportIsSafe: true }
+{
+  report: [
+     5,  8, 10, 11,
+    12, 14, 15
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    88, 87, 85, 83,
+    82, 79, 77
+  ],
+  reportIsSafe: true
+}
+{ report: [ 52, 53, 56, 57, 59 ], reportIsSafe: true }
+{
+  report: [
+    45, 47, 48, 50,
+    51, 54, 56
+  ],
+  reportIsSafe: true
+}
+{ report: [ 49, 51, 53, 55, 56 ], reportIsSafe: true }
+{
+  report: [
+    92, 90, 89, 86,
+    85, 83, 82
+  ],
+  reportIsSafe: true
+}
+{ report: [ 84, 85, 88, 91, 94 ], reportIsSafe: true }
+{ report: [ 79, 77, 75, 74, 72, 70 ], reportIsSafe: true }
+{ report: [ 67, 66, 63, 62, 61 ], reportIsSafe: true }
+{ report: [ 84, 87, 90, 91, 93 ], reportIsSafe: true }
+{ report: [ 84, 83, 82, 79, 78, 76 ], reportIsSafe: true }
+{ report: [ 78, 79, 81, 82, 83, 86 ], reportIsSafe: true }
+{ report: [ 17, 18, 19, 22, 23 ], reportIsSafe: true }
+{
+  report: [
+    49, 51, 52, 53,
+    56, 59, 61
+  ],
+  reportIsSafe: true
+}
+{ report: [ 29, 28, 26, 23, 21 ], reportIsSafe: true }
+{
+  report: [
+    73, 75, 76, 79,
+    82, 83, 85, 87
+  ],
+  reportIsSafe: true
+}
+{ report: [ 52, 54, 56, 58, 61 ], reportIsSafe: true }
+{ report: [ 83, 81, 80, 77, 74, 73 ], reportIsSafe: true }
+{
+  report: [
+    74, 76, 79, 82,
+    85, 88, 90, 91
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    80, 79, 78, 76,
+    75, 73, 72, 70
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    59, 62, 65, 68,
+    71, 73, 75
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    27, 29, 31, 34,
+    37, 39, 41, 43
+  ],
+  reportIsSafe: true
+}
+{ report: [ 12, 11, 8, 6, 5, 3 ], reportIsSafe: true }
+{
+  report: [
+    49, 48, 45, 43,
+    42, 39, 36, 33
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    26, 25, 22, 21,
+    18, 17, 15, 12
+  ],
+  reportIsSafe: true
+}
+{ report: [ 20, 18, 17, 16, 13 ], reportIsSafe: true }
+{ report: [ 56, 54, 53, 50, 47 ], reportIsSafe: true }
+{
+  report: [
+    46, 43, 41, 40,
+    38, 36, 35, 33
+  ],
+  reportIsSafe: true
+}
+{ report: [ 6, 7, 9, 11, 14 ], reportIsSafe: true }
+{
+  report: [
+    45, 48, 50, 52,
+    55, 57, 58
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    35, 37, 39, 42,
+    44, 47, 50, 51
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    93, 92, 89, 88,
+    87, 84, 81, 79
+  ],
+  reportIsSafe: true
+}
+{ report: [ 15, 17, 20, 22, 25, 28 ], reportIsSafe: true }
+{ report: [ 65, 63, 60, 57, 55, 53 ], reportIsSafe: true }
+{ report: [ 84, 81, 80, 77, 76 ], reportIsSafe: true }
+{ report: [ 79, 82, 85, 88, 89 ], reportIsSafe: true }
+{
+  report: [
+    84, 85, 86, 88,
+    91, 93, 94
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    42, 45, 46, 49,
+    52, 53, 56
+  ],
+  reportIsSafe: true
+}
+{ report: [ 16, 17, 20, 23, 24 ], reportIsSafe: true }
+{
+  report: [
+    59, 60, 63, 65,
+    68, 71, 72
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    48, 49, 50, 51,
+    54, 55, 57
+  ],
+  reportIsSafe: true
+}
+{ report: [ 52, 55, 57, 60, 61 ], reportIsSafe: true }
+{
+  report: [
+    42, 45, 48, 49,
+    52, 55, 57
+  ],
+  reportIsSafe: true
+}
+{ report: [ 18, 17, 16, 14, 13 ], reportIsSafe: true }
+{ report: [ 20, 23, 26, 28, 29, 32 ], reportIsSafe: true }
+{
+  report: [
+    22, 19, 17, 15,
+    14, 12, 11
+  ],
+  reportIsSafe: true
+}
+{ report: [ 72, 74, 76, 78, 79, 80 ], reportIsSafe: true }
+{ report: [ 11, 12, 13, 16, 19 ], reportIsSafe: true }
+{
+  report: [
+    24, 27, 29, 32,
+    34, 37, 39, 40
+  ],
+  reportIsSafe: true
+}
+{ report: [ 18, 20, 22, 25, 26 ], reportIsSafe: true }
+{ report: [ 68, 70, 71, 74, 76 ], reportIsSafe: true }
+{
+  report: [
+    49, 51, 52, 54,
+    56, 59, 61
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    29, 30, 33, 34,
+    36, 37, 39
+  ],
+  reportIsSafe: true
+}
+{ report: [ 80, 81, 84, 87, 89 ], reportIsSafe: true }
+{ report: [ 52, 55, 57, 59, 62 ], reportIsSafe: true }
+{ report: [ 58, 56, 54, 53, 50 ], reportIsSafe: true }
+{
+  report: [
+    28, 29, 32, 35,
+    36, 39, 40
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    21, 18, 15, 13,
+    10,  7,  6,  4
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    79, 80, 82, 83,
+    86, 89, 92, 95
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    46, 48, 50, 52,
+    55, 56, 59
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    41, 43, 44, 45,
+    47, 49, 50, 53
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    18, 20, 21, 22,
+    25, 27, 29, 32
+  ],
+  reportIsSafe: true
+}
+{ report: [ 22, 24, 26, 27, 30 ], reportIsSafe: true }
+{ report: [ 82, 79, 78, 75, 74 ], reportIsSafe: true }
+{
+  report: [
+    86, 85, 82, 81,
+    78, 75, 73
+  ],
+  reportIsSafe: true
+}
+{ report: [ 51, 49, 46, 45, 42, 41 ], reportIsSafe: true }
+{
+  report: [
+    85, 88, 89, 90,
+    93, 94, 95, 98
+  ],
+  reportIsSafe: true
+}
+{ report: [ 52, 55, 58, 61, 63 ], reportIsSafe: true }
+{
+  report: [
+    60, 59, 57, 54,
+    52, 50, 47
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    68, 69, 71, 74,
+    75, 76, 79, 80
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    39, 42, 44, 45,
+    47, 49, 52
+  ],
+  reportIsSafe: true
+}
+{ report: [ 56, 53, 51, 49, 48, 45 ], reportIsSafe: true }
+{ report: [ 78, 81, 84, 87, 90 ], reportIsSafe: true }
+{ report: [ 3, 4, 6, 7, 8, 10 ], reportIsSafe: true }
+{
+  report: [
+    25, 28, 31, 33,
+    36, 39, 40, 42
+  ],
+  reportIsSafe: true
+}
+{ report: [ 59, 62, 63, 65, 67 ], reportIsSafe: true }
+{
+  report: [
+    93, 90, 88, 86,
+    85, 82, 80, 78
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    35, 33, 32, 30,
+    29, 28, 26, 25
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    28, 30, 33, 36,
+    39, 41, 42
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    88, 85, 84, 82,
+    81, 80, 78, 75
+  ],
+  reportIsSafe: true
+}
+{ report: [ 26, 25, 24, 23, 20, 19 ], reportIsSafe: true }
+{
+  report: [
+    81, 84, 85, 88,
+    89, 92, 93, 96
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    31, 28, 27, 24,
+    23, 22, 20, 19
+  ],
+  reportIsSafe: true
+}
+{ report: [ 96, 95, 93, 90, 89 ], reportIsSafe: true }
+{ report: [ 69, 72, 74, 77, 80 ], reportIsSafe: true }
+{
+  report: [
+    97, 96, 95, 92,
+    91, 88, 87, 84
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    86, 85, 84, 82,
+    80, 79, 77
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    44, 42, 39, 37,
+    36, 35, 32, 31
+  ],
+  reportIsSafe: true
+}
+{ report: [ 70, 68, 66, 65, 62 ], reportIsSafe: true }
+{ report: [ 79, 80, 82, 83, 85, 88 ], reportIsSafe: true }
+{ report: [ 28, 31, 32, 33, 34 ], reportIsSafe: true }
+{ report: [ 15, 16, 19, 21, 24 ], reportIsSafe: true }
+{ report: [ 73, 75, 77, 78, 80, 83 ], reportIsSafe: true }
+{
+  report: [
+    50, 52, 53, 54,
+    57, 60, 63
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    81, 79, 78, 75,
+    72, 70, 68
+  ],
+  reportIsSafe: true
+}
+{ report: [ 46, 49, 52, 54, 55, 57 ], reportIsSafe: true }
+{ report: [ 57, 56, 53, 50, 49 ], reportIsSafe: true }
+{
+  report: [
+    41, 42, 45, 46,
+    49, 51, 54
+  ],
+  reportIsSafe: true
+}
+{ report: [ 86, 83, 81, 80, 79, 78 ], reportIsSafe: true }
+{ report: [ 50, 51, 52, 55, 58, 61 ], reportIsSafe: true }
+{ report: [ 61, 64, 66, 69, 71 ], reportIsSafe: true }
+{
+  report: [
+    15, 16, 17, 20,
+    23, 26, 27
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    56, 59, 60, 61,
+    64, 65, 68, 71
+  ],
+  reportIsSafe: true
+}
+{ report: [ 72, 71, 69, 66, 65, 62 ], reportIsSafe: true }
+{ report: [ 35, 36, 39, 41, 42 ], reportIsSafe: true }
+{ report: [ 79, 81, 84, 85, 87 ], reportIsSafe: true }
+{ report: [ 72, 70, 69, 66, 65, 64 ], reportIsSafe: true }
+{
+  report: [
+    59, 60, 62, 64,
+    65, 66, 67
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    28, 27, 26, 25,
+    24, 23, 21
+  ],
+  reportIsSafe: true
+}
+{ report: [ 34, 32, 30, 29, 26, 24 ], reportIsSafe: true }
+{ report: [ 14, 16, 19, 21, 23 ], reportIsSafe: true }
+{
+  report: [
+    61, 63, 66, 67,
+    70, 73, 75
+  ],
+  reportIsSafe: true
+}
+{ report: [ 62, 64, 66, 69, 72 ], reportIsSafe: true }
+{ report: [ 52, 54, 56, 57, 58 ], reportIsSafe: true }
+{ report: [ 67, 70, 72, 75, 78, 79 ], reportIsSafe: true }
+{
+  report: [
+    74, 72, 70, 68,
+    66, 64, 63, 61
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    86, 84, 81, 79,
+    76, 75, 73, 71
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    31, 30, 28, 26,
+    23, 22, 20
+  ],
+  reportIsSafe: true
+}
+{ report: [ 78, 79, 81, 82, 85, 88 ], reportIsSafe: true }
+{
+  report: [
+    20, 21, 22, 23,
+    25, 26, 28, 30
+  ],
+  reportIsSafe: true
+}
+{ report: [ 12, 9, 7, 4, 1 ], reportIsSafe: true }
+{
+  report: [
+    97, 96, 95, 94,
+    92, 90, 89, 86
+  ],
+  reportIsSafe: true
+}
+{ report: [ 51, 53, 55, 58, 59, 60 ], reportIsSafe: true }
+{ report: [ 53, 52, 49, 47, 46, 43 ], reportIsSafe: true }
+{ report: [ 44, 43, 42, 39, 38 ], reportIsSafe: true }
+{
+  report: [
+    67, 70, 73, 75,
+    78, 80, 83, 84
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    68, 66, 64, 61,
+    59, 56, 53
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    49, 46, 45, 43,
+    41, 40, 38
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    70, 68, 67, 66,
+    65, 63, 61
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    40, 39, 37, 34,
+    33, 30, 28, 25
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    16, 18, 20, 22,
+    23, 25, 28
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    79, 78, 76, 74,
+    73, 70, 68
+  ],
+  reportIsSafe: true
+}
+{ report: [ 69, 67, 64, 61, 59, 57 ], reportIsSafe: true }
+{
+  report: [
+    50, 52, 55, 57,
+    58, 59, 62
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    46, 49, 51, 54,
+    56, 58, 60, 62
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    55, 57, 60, 62,
+    63, 66, 69
+  ],
+  reportIsSafe: true
+}
+{ report: [ 99, 97, 94, 93, 92 ], reportIsSafe: true }
+{
+  report: [
+    26, 29, 32, 33,
+    36, 37, 39
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    13, 15, 18, 20,
+    22, 23, 25, 27
+  ],
+  reportIsSafe: true
+}
+{ report: [ 76, 77, 80, 82, 85, 86 ], reportIsSafe: true }
+{ report: [ 32, 33, 36, 39, 40, 41 ], reportIsSafe: true }
+{ report: [ 27, 26, 24, 21, 19 ], reportIsSafe: true }
+{
+  report: [
+    12, 11, 10, 9,
+     7,  6,  5, 2
+  ],
+  reportIsSafe: true
+}
+{ report: [ 50, 53, 54, 57, 60, 62 ], reportIsSafe: true }
+{
+  report: [
+    23, 25, 28, 29,
+    31, 33, 34
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    31, 33, 35, 36,
+    37, 39, 41, 43
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    48, 49, 51, 53,
+    54, 55, 58
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    70, 67, 64, 62,
+    59, 57, 55
+  ],
+  reportIsSafe: true
+}
+{ report: [ 37, 38, 39, 41, 42, 44 ], reportIsSafe: true }
+{
+  report: [
+    71, 74, 76, 78,
+    80, 82, 84, 87
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    61, 63, 65, 67,
+    68, 70, 72
+  ],
+  reportIsSafe: true
+}
+{ report: [ 87, 84, 82, 80, 79 ], reportIsSafe: true }
+{
+  report: [
+     3,  5,  6,  8,
+    11, 13, 14, 17
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    95, 93, 91, 88,
+    87, 85, 84
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    34, 37, 39, 42,
+    45, 46, 49
+  ],
+  reportIsSafe: true
+}
+{ report: [ 61, 58, 56, 55, 54 ], reportIsSafe: true }
+{ report: [ 17, 14, 11, 8, 6 ], reportIsSafe: true }
+{
+  report: [
+    50, 48, 45, 42,
+    40, 38, 35
+  ],
+  reportIsSafe: true
+}
+{ report: [ 52, 51, 50, 47, 44, 42 ], reportIsSafe: true }
+{ report: [ 21, 22, 23, 26, 28, 29 ], reportIsSafe: true }
+{ report: [ 26, 29, 31, 32, 33 ], reportIsSafe: true }
+{
+  report: [
+    46, 45, 43, 42,
+    41, 39, 37, 36
+  ],
+  reportIsSafe: true
+}
+{ report: [ 85, 87, 89, 92, 94 ], reportIsSafe: true }
+{
+  report: [
+    78, 76, 75, 73,
+    71, 70, 69, 68
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    59, 61, 63, 64,
+    66, 69, 70, 72
+  ],
+  reportIsSafe: true
+}
+{ report: [ 20, 17, 15, 13, 12, 11 ], reportIsSafe: true }
+{
+  report: [
+    25, 27, 30, 31,
+    32, 34, 36, 37
+  ],
+  reportIsSafe: true
+}
+{ report: [ 68, 71, 74, 77, 79, 80 ], reportIsSafe: true }
+{
+  report: [
+    73, 72, 69, 67,
+    64, 62, 60, 59
+  ],
+  reportIsSafe: true
+}
+{ report: [ 22, 20, 19, 18, 16 ], reportIsSafe: true }
+{
+  report: [
+    49, 47, 45, 43,
+    40, 38, 36
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    70, 71, 72, 75,
+    76, 79, 81
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    66, 67, 69, 70,
+    73, 75, 77
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    94, 91, 89, 87,
+    84, 81, 79
+  ],
+  reportIsSafe: true
+}
+{ report: [ 45, 46, 47, 49, 52, 54 ], reportIsSafe: true }
+{
+  report: [
+    31, 33, 34, 35,
+    38, 41, 43
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    21, 19, 18, 17,
+    14, 12,  9,  8
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    54, 57, 59, 60,
+    61, 62, 65, 66
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    39, 42, 45, 47,
+    48, 51, 52
+  ],
+  reportIsSafe: true
+}
+{ report: [ 97, 96, 93, 90, 88 ], reportIsSafe: true }
+{ report: [ 38, 35, 34, 31, 28 ], reportIsSafe: true }
+{ report: [ 91, 89, 86, 83, 81, 79 ], reportIsSafe: true }
+{ report: [ 77, 80, 82, 83, 86 ], reportIsSafe: true }
+{
+  report: [
+    36, 35, 33, 32,
+    31, 28, 26, 23
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    37, 40, 41, 42,
+    44, 47, 48, 50
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    42, 43, 44, 46,
+    48, 51, 52, 54
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    79, 81, 82, 84,
+    85, 86, 89, 91
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    38, 40, 42, 45,
+    46, 49, 50
+  ],
+  reportIsSafe: true
+}
+{ report: [ 21, 19, 16, 15, 12, 11 ], reportIsSafe: true }
+{ report: [ 35, 33, 31, 29, 28, 27 ], reportIsSafe: true }
+{ report: [ 42, 41, 40, 37, 35 ], reportIsSafe: true }
+{
+  report: [
+    85, 82, 81, 78,
+    75, 73, 72
+  ],
+  reportIsSafe: true
+}
+{ report: [ 22, 25, 26, 28, 31, 34 ], reportIsSafe: true }
+{ report: [ 77, 74, 71, 69, 68, 67 ], reportIsSafe: true }
+{
+  report: [
+    71, 68, 67, 64,
+    61, 58, 57
+  ],
+  reportIsSafe: true
+}
+{ report: [ 68, 66, 63, 61, 59 ], reportIsSafe: true }
+{
+  report: [
+    31, 32, 35, 36,
+    38, 39, 41
+  ],
+  reportIsSafe: true
+}
+{ report: [ 33, 30, 28, 26, 23, 21 ], reportIsSafe: true }
+{
+  report: [
+    18, 15, 13, 11,
+     9,  6,  5
+  ],
+  reportIsSafe: true
+}
+{
+  report: [
+    60, 63, 66, 67,
+    68, 70, 71
+  ],
+  reportIsSafe: true
+}
+{ report: [ 38, 41, 43, 44, 45, 47 ], reportIsSafe: true }
